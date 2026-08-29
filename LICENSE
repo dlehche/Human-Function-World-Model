@@ -1,0 +1,35 @@
+HFWM REPOSITORY LICENSING NOTICE
+
+Copyright © 2026 Lei Che and MoveTips Technology (Beijing) Co., Ltd.
+
+This is a mixed-license repository.
+
+1. Publications and publication source text
+
+HFWM papers and corresponding publication source text are governed by the license stated in the applicable publication record. Unless a specific publication record states otherwise, current HFWM publication/document content is intended to use Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
+
+For material governed by CC BY-NC 4.0, reuse must comply with that license, including appropriate attribution and indication of modifications. Commercial use is not licensed under CC BY-NC 4.0 and requires separate permission where copyright permission is required.
+
+2. Other repository material
+
+Explanatory documentation, citation metadata, examples, benchmark definitions, future code, mappings, schemas, machine-readable artifacts, and other resources may carry separate file- or directory-specific terms. Where no explicit license is stated for a future artifact, no additional permission should be inferred merely from public availability.
+
+3. Public release boundary
+
+Public access does not release the complete production reasoning system, private Functional Bridge assets, private datasets, person-specific reasoning rules, decision weights, production prompts, provider/model routing, retrieval/reranking implementation, database schemas, private APIs, billing logic, or other commercial implementation know-how.
+
+See PUBLIC_RELEASE_BOUNDARY.md and RIGHTS_AND_REUSE.md.
+
+4. Scientific facts and ideas
+
+Scientific facts, ideas, methods, and other elements not protected by copyright are not converted into proprietary rights merely because they are described in an HFWM publication.
+
+5. Historical licenses
+
+A later licensing statement does not purport to revoke rights already validly granted for copies obtained under an earlier applicable license.
+
+6. Names and marks
+
+MoveTips, 木梯, UOHF, HFWM, Human Function World Model, Unified Ontology of Human Function, and related identifiers may function as names, marks, or source identifiers. Repository access or publication licensing does not by itself grant trademark or brand-use permission.
+
+Contact: dlehche@gmail.com

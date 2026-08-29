@@ -1,0 +1,32 @@
+{
+  "project": {
+    "name": "Human Function World Model",
+    "abbreviation": "HFWM",
+    "repository": "https://github.com/dlehche/Human-Function-World-Model"
+  },
+  "semanticFoundation": {
+    "name": "Unified Ontology of Human Function",
+    "abbreviation": "UOHF",
+    "repository": "https://github.com/dlehche/Unified-Ontology-Of-Human-Function",
+    "authoritativeDefinition": "UOHF Definition 2.1",
+    "doi": "10.5281/zenodo.21630406"
+  },
+  "historicalProvenance": {
+    "firstHFWMDisclosure": "UOHF Definition 2.0",
+    "date": "2026-07-15",
+    "doi": "10.5281/zenodo.21630339"
+  },
+  "publications": [
+    {
+      "id": "hfwm-framework",
+      "title": "The Human Function World Model: Modeling the Whole Person Through Human Function Across Tasks, States, Actions, and Longitudinal Change",
+      "author": "Lei Che",
+      "status": "manuscript-preprint-pending-archival-record",
+      "license": "CC-BY-NC-4.0",
+      "doi": null,
+      "arxiv": null,
+      "repositoryPathEnglish": "papers/hfwm-framework/HFWM_EN.md",
+      "repositoryPathChinese": "papers/hfwm-framework/HFWM_ZH.md"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use the Human Function World Model (HFWM) in research, please cite the dedicated HFWM paper when its archival record is available, and cite UOHF Definition 2.1 for the canonical human-function semantic foundation."
+title: "Human Function World Model"
+authors:
+  - family-names: "Che"
+    given-names: "Lei"
+    email: "dlehche@gmail.com"
+    affiliation: "MoveTips Technology (Beijing) Co., Ltd."
+repository-code: "https://github.com/dlehche/Human-Function-World-Model"
+license: CC-BY-NC-4.0
+abstract: >-
+  The Human Function World Model (HFWM) is a whole-person world-model framework
+  organized through human function across internal and external tasks, Demand,
+  human-function capacity, actual functional engagement, evidence, action,
+  professional and life coordination, feedback, and longitudinal change.
+keywords:
+  - human function
+  - world model
+  - HFWM
+  - whole-person modeling
+  - UOHF
+  - functional engagement
+  - internal task
+  - external task
+  - longitudinal modeling
+  - evidence-constrained reasoning
+  - health AI
