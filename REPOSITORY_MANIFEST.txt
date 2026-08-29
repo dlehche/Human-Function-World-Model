@@ -34,5 +34,15 @@ papers/README.md
 papers/hfwm-framework/HFWM_EN.md
 papers/hfwm-framework/HFWM_ZH.md
 papers/hfwm-framework/README.md
+papers/hfwm-framework/source/en/01.md
+papers/hfwm-framework/source/en/02.md
+papers/hfwm-framework/source/en/03.md
+papers/hfwm-framework/source/en/04.md
+papers/hfwm-framework/source/en/05.md
+papers/hfwm-framework/source/zh/01.md
+papers/hfwm-framework/source/zh/02.md
+papers/hfwm-framework/source/zh/03.md
+papers/hfwm-framework/source/zh/04.md
+papers/hfwm-framework/source/zh/05.md
 references/README.md
 versions/README.md
