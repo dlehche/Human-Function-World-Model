@@ -1,5 +1,7 @@
 # HFWM 公开总体架构
 
+[English](README.md)
+
 HFWM 严格区分公开科学架构与私有生产实现。
 
 ## 当前公开层次
@@ -15,10 +17,28 @@ HFWM 严格区分公开科学架构与私有生产实现。
 
 ## 公开架构硬边界
 
-- 人体功能是统一坐标，不是建模边界。
+- 人体功能是独立于医学而客观存在的身体能力现实；HFWM 表示人体功能，但不创造人体功能。
+- 同一个完整的人是持续建模主体；人体功能是统一组织坐标，但不是人的全部，也不是世界模型的建模边界。
+- 医学—人体功能关系目的上不对称、运行上双向：医学最终服务于人，并在身体层面服务人体功能；人体功能变化持续为医学提供问题、目标、边界和反馈。
 - 疾病/损伤可以触发内部任务，但不能自动等同任务。
 - 一般科学知识不等于个体证据。
 - 实际调用过程、证据断言和调用模式推断必须分开。
+- 医学事实保留医学身份；人体功能证据不能自主变成医学诊断。
 - 专业路由不能取消专业权限。
 - 报告投影不是第二套事实源。
 - 预测、观察更新和因果结论必须分开。
+
+## 专题架构说明
+
+- [完整人范围](WHOLE_PERSON_SCOPE.md)
+- [内部任务与外部任务](INTERNAL_EXTERNAL_TASKS.md)
+- [证据与不确定性](EVIDENCE_AND_UNCERTAINTY.md)
+- [医学—人体功能推理](MEDICINE_FUNCTION_BIDIRECTIONAL.zh-CN.md) · [English](MEDICINE_FUNCTION_BIDIRECTIONAL.md)
+- [协作拓扑](COORDINATION_TOPOLOGY.md)
+- [行动与纵向更新](ACTION_AND_UPDATE.md)
+- [报告投影](REPORT_PROJECTION.md)
+
+## 公众解释文章
+
+- [《人体功能世界模型与医学：人体功能本就存在，医学为人体功能服务》](../HFWM_AND_MEDICINE.zh-CN.md)
+- [The Human Function World Model and Medicine](../HFWM_AND_MEDICINE.md)
