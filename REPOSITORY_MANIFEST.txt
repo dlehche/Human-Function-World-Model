@@ -51,4 +51,6 @@ papers/hfwm-framework/source/zh/03.md
 papers/hfwm-framework/source/zh/04.md
 papers/hfwm-framework/source/zh/05.md
 references/README.md
-versions/README.md
+versions/README.mdpapers/human-function-hypothesis/HYPOTHESIS_EN.md
+papers/human-function-hypothesis/HYPOTHESIS_ZH.md
+papers/human-function-hypothesis/README.md
