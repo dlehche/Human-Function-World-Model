@@ -155,6 +155,14 @@ HFWM 可以表达医生、护士、物理治疗师、作业治疗师、言语语
 
 ---
 
+## 根假设母论文
+
+**[《人体功能作为完整人医学中的需求条件化组织坐标：一个可检验的假设》](papers/human-function-hypothesis/HYPOTHESIS_ZH.md)** · [English](papers/human-function-hypothesis/HYPOTHESIS_EN.md)
+
+这篇论文提出 HFWM 研究体系的根经验假设：UOHF 是这一假设的一种形式化，HFWM 是其纵向、多尺度扩展，而不是第二个独立假设或对根假设的证明。
+
+---
+
 ## 当前边界
 
 当前公开 HFWM 框架已经形式化规定：
