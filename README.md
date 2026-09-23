@@ -170,6 +170,15 @@ See [`architecture/REPORT_PROJECTION.md`](architecture/REPORT_PROJECTION.md).
 
 ---
 
+## Public explanatory essays
+
+These essays explain the HFWM research program for a broader scientific and public audience. They are non-normative companions to the formal framework.
+
+- **[From 1977 to 2026: The Human Function World Model Is Responding to a Question Medicine Has Pursued for Nearly 50 Years](HFWM_1977_TO_2026.md)** · [中文](HFWM_1977_TO_2026.zh-CN.md)
+- **[The Human Function World Model and Medicine: Human Function Exists Independently of Medicine, and Medicine Serves Human Function](HFWM_AND_MEDICINE.md)** · [中文](HFWM_AND_MEDICINE.zh-CN.md)
+
+---
+
 ## Start here
 
 | Resource | Purpose |
