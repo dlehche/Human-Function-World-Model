@@ -179,10 +179,19 @@ These essays explain the HFWM research program for a broader scientific and publ
 
 ---
 
+## Root hypothesis manuscript
+
+**[Human function as a demand-conditioned organising coordinate for whole-person medicine: a testable hypothesis](papers/human-function-hypothesis/HYPOTHESIS_EN.md)** · [中文](papers/human-function-hypothesis/HYPOTHESIS_ZH.md)
+
+This is the root empirical hypothesis manuscript. UOHF formalises the hypothesis; HFWM is its longitudinal multiscale extension.
+
+---
+
 ## Start here
 
 | Resource | Purpose |
 |---|---|
+| [Root hypothesis manuscript](papers/human-function-hypothesis/HYPOTHESIS_EN.md) | Demand-conditioned human-function organising coordinate and falsifiable root hypothesis |
 | [Framework paper](papers/hfwm-framework/HFWM_EN.md) | Complete English HFWM framework manuscript |
 | [中文论文](papers/hfwm-framework/HFWM_ZH.md) | 中文完整对照稿 |
 | [Architecture](architecture/README.md) | Public HFWM architecture |
