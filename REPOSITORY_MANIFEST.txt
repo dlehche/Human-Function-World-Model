@@ -6,6 +6,7 @@ PUBLICATIONS.json
 PUBLIC_RELEASE_BOUNDARY.md
 README.md
 README.zh-CN.md
+REPOSITORY_MANIFEST.txt
 RIGHTS_AND_REUSE.md
 ROADMAP.md
 STATUS.md
@@ -13,6 +14,7 @@ WHOLE_PERSON_HUMAN_FUNCTION_WORLD_MODEL.md
 announcements/2026-10-02-movetips-hfwm-gray-release.en.md
 announcements/2026-10-02-movetips-hfwm-gray-release.md
 announcements/2026-10-03-movetips-human-function-operating-system.md
+announcements/README.md
 architecture/ACTION_AND_UPDATE.md
 architecture/COORDINATION_TOPOLOGY.md
 architecture/EVIDENCE_AND_UNCERTAINTY.md
@@ -31,6 +33,7 @@ essays/HFWM_1977_TO_2026.md
 essays/HFWM_1977_TO_2026.zh-CN.md
 essays/HFWM_AND_MEDICINE.md
 essays/HFWM_AND_MEDICINE.zh-CN.md
+essays/README.md
 examples/README.md
 functional-bridge/README.md
 functional-bridge/README.zh-CN.md
@@ -65,4 +68,3 @@ papers/human-model-interoperability/README.zh-CN.md
 papers/human-model-interoperability/RIGHTS_AND_REUSE.md
 references/README.md
 versions/README.md
-REPOSITORY_MANIFEST.txt
