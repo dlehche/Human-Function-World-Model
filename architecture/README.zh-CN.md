@@ -40,5 +40,5 @@ HFWM 严格区分公开科学架构与私有生产实现。
 
 ## 公众解释文章
 
-- [《人体功能世界模型与医学：人体功能本就存在，医学为人体功能服务》](../HFWM_AND_MEDICINE.zh-CN.md)
-- [The Human Function World Model and Medicine](../HFWM_AND_MEDICINE.md)
+- [《人体功能世界模型与医学：人体功能本就存在，医学为人体功能服务》](../essays/HFWM_AND_MEDICINE.zh-CN.md)
+- [The Human Function World Model and Medicine](../essays/HFWM_AND_MEDICINE.md)
