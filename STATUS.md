@@ -16,7 +16,14 @@ Publicly established components include:
 - professional/life coordination model;
 - longitudinal state update;
 - Body Function Report as a governed projection;
-- dedicated HFWM framework manuscript.
+- **HFWM Version 1.0 Zenodo publication — DOI 10.5281/zenodo.22685308**;
+- **human-model interoperability Version 1.0 — DOI 10.5281/zenodo.23180973**.
+
+## Repository role
+
+This repository is the canonical public GitHub home for HFWM-specific architecture, publications, model interoperability, Functional Bridge, longitudinal modeling, public benchmarks, examples, and HFWM governance.
+
+UOHF remains the semantic authority for the definition of human function, ontology identities, and governed UOHF relations.
 
 ## Not yet claimed complete
 
