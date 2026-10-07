@@ -12,7 +12,6 @@ It is designed to bring professional knowledge, learning, member services, human
 
 https://github.com/user-attachments/assets/d72ca8f7-ab2a-43b1-8985-a8d57ae34f00
 
-**GitHub Release:** [MoveTips Human Function Operating System Demo](https://github.com/dlehche/Unified-Ontology-Of-Human-Function/releases/tag/hf-os-demo-v1)
 
 The video demonstrates how therapists and fitness trainers use the MoveTips Workbench, how UOHF knowledge is retrieved inside professional conversations, how the three chat environments are separated by purpose, and how member-service records are continuously incorporated into the Human Function World Model.
 
@@ -77,7 +76,7 @@ This creates a practical product layer above UOHF and HFWM:
 - **Human Function World Model V1.0:** https://zenodo.org/records/22685308
 - **UOHF Definition 2.1:** https://doi.org/10.5281/zenodo.21630406
 - **MoveTips Human Function:** https://www.movetips.cn/
-- **Product Demo Release:** https://github.com/dlehche/Unified-Ontology-Of-Human-Function/releases/tag/hf-os-demo-v1
+- **HFWM repository:** https://github.com/dlehche/Human-Function-World-Model
 
 ## Related Concepts
 
