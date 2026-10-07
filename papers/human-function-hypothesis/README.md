@@ -28,4 +28,4 @@ This GitHub text is based on the final manuscript file **Human_Function_Lancet_H
 
 ### Publication-status note
 
-Reference 18 in the final manuscript records the capacity-system publication status as it stood when the manuscript was finalised. The current Zenodo archival record for the UOHF Human Function Capacity System Version 1.0 is **10.5281/zenodo.22852017**. This repository note updates publication metadata without silently rewriting the final manuscript text.
+Reference 18 in the final manuscript records the capacity-system publication status as it stood when the manuscript was finalised. The current Zenodo archival record for the UOHF Human Function Capacity System Version 1.0 is **10.5281/zenodo.21975100**. This repository note updates publication metadata without silently rewriting the final manuscript text.

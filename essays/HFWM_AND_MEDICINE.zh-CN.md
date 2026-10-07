@@ -1,6 +1,6 @@
 # 人体功能世界模型与医学：人体功能本就存在，医学为人体功能服务
 
-[English](HFWM_AND_MEDICINE.md) · [HFWM 中文完整论文](papers/hfwm-framework/HFWM_ZH.md) · [医学—人体功能架构说明](architecture/MEDICINE_FUNCTION_BIDIRECTIONAL.zh-CN.md)
+[English](HFWM_AND_MEDICINE.md) · [HFWM 中文完整论文](../papers/hfwm-framework/HFWM_ZH.md) · [医学—人体功能架构说明](../architecture/MEDICINE_FUNCTION_BIDIRECTIONAL.zh-CN.md)
 
 **作者：** 车雷（Lei Che）  
 **机构：** 木梯科技（北京）有限公司  
@@ -167,7 +167,7 @@
 
 ## 相关 HFWM 资料
 
-- [《人体功能世界模型》中文完整论文](papers/hfwm-framework/HFWM_ZH.md)
-- [目的不对称、运行双向的医学—人体功能推理](architecture/MEDICINE_FUNCTION_BIDIRECTIONAL.zh-CN.md)
-- [内部任务与外部任务](architecture/INTERNAL_EXTERNAL_TASKS.md)
-- [人体功能能力坐标](capacity-coordinate/README.zh-CN.md)
+- [《人体功能世界模型》中文完整论文](../papers/hfwm-framework/HFWM_ZH.md)
+- [目的不对称、运行双向的医学—人体功能推理](../architecture/MEDICINE_FUNCTION_BIDIRECTIONAL.zh-CN.md)
+- [内部任务与外部任务](../architecture/INTERNAL_EXTERNAL_TASKS.md)
+- [人体功能能力坐标](../capacity-coordinate/README.zh-CN.md)

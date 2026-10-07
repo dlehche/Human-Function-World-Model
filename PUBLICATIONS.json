@@ -30,15 +30,35 @@
       "repositoryPathChinese": "papers/human-function-hypothesis/HYPOTHESIS_ZH.md"
     },
     {
-      "id": "hfwm-framework",
+      "id": "hfwm-framework-v1.0",
       "title": "The Human Function World Model: Modeling the Whole Person Through Human Function Across Tasks, States, Actions, and Longitudinal Change",
       "author": "Lei Che",
-      "status": "manuscript-preprint-pending-archival-record",
+      "frameworkVersion": "1.0",
+      "publicationRevision": "1.0",
+      "publicationDate": "2026-09-10",
+      "status": "zenodo-archived-preprint",
+      "record": "https://zenodo.org/records/22685308",
+      "doi": "10.5281/zenodo.22685308",
       "license": "CC-BY-NC-4.0",
-      "doi": null,
-      "arxiv": null,
       "repositoryPathEnglish": "papers/hfwm-framework/HFWM_EN.md",
-      "repositoryPathChinese": "papers/hfwm-framework/HFWM_ZH.md"
+      "repositoryPathChinese": "papers/hfwm-framework/HFWM_ZH.md",
+      "relationToUohf": "builds-on-uohf-definition-2.1"
+    },
+    {
+      "id": "human-model-interoperability-v1.0",
+      "title": "Connecting Human Models Through Human Function: Toward a Common Computational Protocol for Whole-Person Modeling",
+      "author": "Lei Che",
+      "frameworkVersion": "1.0",
+      "publicationRevision": "1.0",
+      "publicationDate": "2026-10-06",
+      "status": "zenodo-archived-focused-publication",
+      "record": "https://zenodo.org/records/23180973",
+      "doi": "10.5281/zenodo.23180973",
+      "license": "CC-BY-NC-4.0",
+      "repositoryPathEnglish": "papers/human-model-interoperability/Human_Model_Interoperability_EN_V1.0.md",
+      "repositoryPathChinese": "papers/human-model-interoperability/Human_Model_Interoperability_ZH_V1.0.md",
+      "relationToHFWM": "focused-interoperability-publication",
+      "relationToUohf": "uses-uohf-semantic-foundation"
     }
   ]
 }

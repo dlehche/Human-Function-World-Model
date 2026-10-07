@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this human-model interoperability publication, please cite the canonical Zenodo Version 1.0 record."
+title: "Connecting Human Models Through Human Function: Toward a Common Computational Protocol for Whole-Person Modeling"
+version: "1.0"
+doi: "10.5281/zenodo.23180973"
+authors:
+  - family-names: "Che"
+    given-names: "Lei"
+    email: "dlehche@gmail.com"
+    affiliation: "MoveTips Technology (Beijing) Co., Ltd."
+date-released: 2026-10-06
+repository-code: "https://github.com/dlehche/Human-Function-World-Model/tree/main/papers/human-model-interoperability"
+url: "https://doi.org/10.5281/zenodo.23180973"
+license: CC-BY-NC-4.0
+abstract: >-
+  This conceptual architecture proposes human function as a common relational
+  and computational coordinate for joint interpretation of heterogeneous human
+  models while preserving their native domain meanings. UOHF supplies semantic
+  identities and governed relations, while HFWM coordinates a typed,
+  person-bound model network, evidence qualification, and longitudinal updates.
+keywords:
+  - human function
+  - whole-person modeling
+  - model interoperability
+  - semantic interoperability
+  - Human Function World Model
+  - HFWM
+  - Unified Ontology of Human Function
+  - UOHF
+  - functional capacity
+  - functional engagement
+preferred-citation:
+  type: report
+  authors:
+    - family-names: "Che"
+      given-names: "Lei"
+      email: "dlehche@gmail.com"
+      affiliation: "MoveTips Technology (Beijing) Co., Ltd."
+  title: "Connecting Human Models Through Human Function: Toward a Common Computational Protocol for Whole-Person Modeling"
+  year: 2026
+  version: "1.0"
+  doi: "10.5281/zenodo.23180973"
+  institution:
+    name: "MoveTips Technology (Beijing) Co., Ltd."
+  url: "https://doi.org/10.5281/zenodo.23180973"

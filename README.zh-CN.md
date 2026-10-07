@@ -2,13 +2,15 @@
 
 ## 以人体功能为统一坐标的完整人世界模型
 
-[English](README.md) · [英文完整论文](papers/hfwm-framework/HFWM_EN.md) · [中文完整论文](papers/hfwm-framework/HFWM_ZH.md) · [总体架构](architecture/README.zh-CN.md) · [18+104 能力坐标](capacity-coordinate/README.zh-CN.md) · [Functional Bridge](functional-bridge/README.zh-CN.md) · [参考文献](references/README.md) · [公开边界](PUBLIC_RELEASE_BOUNDARY.md) · [权利与复用](RIGHTS_AND_REUSE.md)
+[English](README.md) · **[HFWM V1.0](https://doi.org/10.5281/zenodo.22685308)** · **[模型互操作 V1.0](https://doi.org/10.5281/zenodo.23180973)** · [“完整的人”入口](WHOLE_PERSON_HUMAN_FUNCTION_WORLD_MODEL.md) · [英文完整论文](papers/hfwm-framework/HFWM_EN.md) · [中文完整论文](papers/hfwm-framework/HFWM_ZH.md) · [总体架构](architecture/README.zh-CN.md) · [18+104 能力坐标](capacity-coordinate/README.zh-CN.md) · [Functional Bridge](functional-bridge/README.zh-CN.md) · [论文总览](papers/README.md) · [参考文献](references/README.md) · [公开边界](PUBLIC_RELEASE_BOUNDARY.md)
 
 **正式英文名称：** Human Function World Model  
 **正式简称：** HFWM  
 **作者：** 车雷（Lei Che）  
 **机构：** 木梯科技（北京）有限公司  
 **联系邮箱：** dlehche@gmail.com  
+**HFWM 权威出版物：** [10.5281/zenodo.22685308](https://doi.org/10.5281/zenodo.22685308)  
+**最新模型互操作专题论文：** [10.5281/zenodo.23180973](https://doi.org/10.5281/zenodo.23180973)  
 **语义基础：** [人体功能统一本体 UOHF](https://github.com/dlehche/Unified-Ontology-Of-Human-Function)  
 **公开论文/文档许可：** 如无单独声明，采用 CC BY-NC 4.0
 
@@ -63,6 +65,14 @@ UOHF 根定义仍然优先于这条运行链。Task 用于使 Demand 明确，�
 UOHF Definition 2.1 随后恢复内部与外部需求的完整根范围。
 
 本仓库用于把 HFWM 从单篇论文中的架构层，发展成可以长期扩展的独立公开研究体系。
+
+### HFWM 权威与专题出版物
+
+- **HFWM Version 1.0：**《The Human Function World Model: Modeling the Whole Person Through Human Function Across Tasks, States, Actions, and Longitudinal Change》，Zenodo DOI：[10.5281/zenodo.22685308](https://doi.org/10.5281/zenodo.22685308)。
+- **人体模型互操作 Version 1.0：**《Connecting Human Models Through Human Function: Toward a Common Computational Protocol for Whole-Person Modeling》，Zenodo DOI：[10.5281/zenodo.23180973](https://doi.org/10.5281/zenodo.23180973)。[中英文全文](papers/human-model-interoperability/README.zh-CN.md)。
+
+前者定义 HFWM 的专门世界模型架构；后者进一步研究异构人体模型怎样通过人体功能围绕同一个完整的人互操作。人体功能定义和正式本体身份的语义权威仍然属于 UOHF。
+
 
 ---
 
@@ -150,8 +160,8 @@ HFWM 可以表达医生、护士、物理治疗师、作业治疗师、言语语
 
 以下文章面向更广泛的科研与公众读者，用于解释 HFWM 的问题背景和研究定位；它们不是规范性定义文件。
 
-- **[《从1977到2026：人体功能世界模型，正在回应医学追问近50年的一个问题》](HFWM_1977_TO_2026.zh-CN.md)** · [English](HFWM_1977_TO_2026.md)
-- **[《人体功能世界模型与医学：人体功能本就存在，医学为人体功能服务》](HFWM_AND_MEDICINE.zh-CN.md)** · [English](HFWM_AND_MEDICINE.md)
+- **[《从1977到2026：人体功能世界模型，正在回应医学追问近50年的一个问题》](essays/HFWM_1977_TO_2026.zh-CN.md)** · [English](essays/HFWM_1977_TO_2026.md)
+- **[《人体功能世界模型与医学：人体功能本就存在，医学为人体功能服务》](essays/HFWM_AND_MEDICINE.zh-CN.md)** · [English](essays/HFWM_AND_MEDICINE.md)
 
 ---
 
@@ -160,6 +170,20 @@ HFWM 可以表达医生、护士、物理治疗师、作业治疗师、言语语
 **[《人体功能作为完整人医学中的需求条件化组织坐标：一个可检验的假设》](papers/human-function-hypothesis/HYPOTHESIS_ZH.md)** · [English](papers/human-function-hypothesis/HYPOTHESIS_EN.md)
 
 这篇论文提出 HFWM 研究体系的根经验假设：UOHF 是这一假设的一种形式化，HFWM 是其纵向、多尺度扩展，而不是第二个独立假设或对根假设的证明。
+
+---
+
+## 从这里开始
+
+| 内容 | 用途 |
+|---|---|
+| [HFWM Version 1.0](papers/hfwm-framework/HFWM_ZH.md) | HFWM 专门世界模型框架 · DOI 10.5281/zenodo.22685308 |
+| [人体模型互操作 V1.0](papers/human-model-interoperability/README.zh-CN.md) | 异构人体模型围绕同一个完整的人互操作 · DOI 10.5281/zenodo.23180973 |
+| [“完整的人”模型入口](WHOLE_PERSON_HUMAN_FUNCTION_WORLD_MODEL.md) | “完整的人”持续建模核心说明 |
+| [总体架构](architecture/README.zh-CN.md) | HFWM 公开架构 |
+| [Functional Bridge](functional-bridge/README.zh-CN.md) | 知识关系层及边界 |
+| [论文总览](papers/README.md) | HFWM 论文与研究稿 |
+| [版本历史](versions/README.md) | HFWM 公开版本与出版历史 |
 
 ---
 

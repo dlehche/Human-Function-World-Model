@@ -1,6 +1,6 @@
 # The Human Function World Model and Medicine: Human Function Exists Independently of Medicine, and Medicine Serves Human Function
 
-[中文](HFWM_AND_MEDICINE.zh-CN.md) · [HFWM framework paper](papers/hfwm-framework/HFWM_EN.md) · [Medicine–human-function architecture](architecture/MEDICINE_FUNCTION_BIDIRECTIONAL.md)
+[中文](HFWM_AND_MEDICINE.zh-CN.md) · [HFWM framework paper](../papers/hfwm-framework/HFWM_EN.md) · [Medicine–human-function architecture](../architecture/MEDICINE_FUNCTION_BIDIRECTIONAL.md)
 
 **Author:** Lei Che  
 **Affiliation:** MoveTips Technology (Beijing) Co., Ltd.  
@@ -167,7 +167,7 @@ The Human Function World Model keeps the same person continuous across medicine,
 
 ## Related HFWM resources
 
-- [The Human Function World Model — complete framework paper](papers/hfwm-framework/HFWM_EN.md)
-- [Purpose-asymmetric, operationally bidirectional medicine–human-function reasoning](architecture/MEDICINE_FUNCTION_BIDIRECTIONAL.md)
-- [Internal and external tasks](architecture/INTERNAL_EXTERNAL_TASKS.md)
-- [Human-function capacity coordinate](capacity-coordinate/README.md)
+- [The Human Function World Model — complete framework paper](../papers/hfwm-framework/HFWM_EN.md)
+- [Purpose-asymmetric, operationally bidirectional medicine–human-function reasoning](../architecture/MEDICINE_FUNCTION_BIDIRECTIONAL.md)
+- [Internal and external tasks](../architecture/INTERNAL_EXTERNAL_TASKS.md)
+- [Human-function capacity coordinate](../capacity-coordinate/README.md)

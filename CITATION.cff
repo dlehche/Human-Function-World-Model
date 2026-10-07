@@ -1,27 +1,44 @@
 cff-version: 1.2.0
-message: "If you use the Human Function World Model (HFWM) in research, please cite the dedicated HFWM paper when its archival record is available, and cite UOHF Definition 2.1 for the canonical human-function semantic foundation."
-title: "Human Function World Model"
+message: "If you use the Human Function World Model (HFWM) in research, please cite the canonical HFWM Version 1.0 Zenodo publication."
+title: "The Human Function World Model: Modeling the Whole Person Through Human Function Across Tasks, States, Actions, and Longitudinal Change"
+version: "1.0"
 authors:
   - family-names: "Che"
     given-names: "Lei"
     email: "dlehche@gmail.com"
     affiliation: "MoveTips Technology (Beijing) Co., Ltd."
+date-released: 2026-09-10
+doi: 10.5281/zenodo.22685308
 repository-code: "https://github.com/dlehche/Human-Function-World-Model"
+url: "https://zenodo.org/records/22685308"
 license: CC-BY-NC-4.0
 abstract: >-
   The Human Function World Model (HFWM) is a whole-person world-model framework
-  organized through human function across internal and external tasks, Demand,
-  human-function capacity, actual functional engagement, evidence, action,
-  professional and life coordination, feedback, and longitudinal change.
+  organized through human function across internal and external tasks, demand,
+  human-function capacity, actual functional engagement, evidence, governed action,
+  feedback, and longitudinal change. UOHF provides the semantic foundation.
 keywords:
   - human function
-  - world model
+  - Human Function World Model
   - HFWM
   - whole-person modeling
   - UOHF
   - functional engagement
-  - internal task
-  - external task
+  - model interoperability
   - longitudinal modeling
   - evidence-constrained reasoning
   - health AI
+preferred-citation:
+  type: report
+  authors:
+    - family-names: "Che"
+      given-names: "Lei"
+      email: "dlehche@gmail.com"
+      affiliation: "MoveTips Technology (Beijing) Co., Ltd."
+  title: "The Human Function World Model: Modeling the Whole Person Through Human Function Across Tasks, States, Actions, and Longitudinal Change"
+  year: 2026
+  version: "1.0"
+  institution:
+    name: "MoveTips Technology (Beijing) Co., Ltd."
+  doi: 10.5281/zenodo.22685308
+  url: "https://zenodo.org/records/22685308"

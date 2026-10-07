@@ -40,5 +40,5 @@ HFWM separates public scientific architecture from private production implementa
 
 ## Public explanatory essay
 
-- [The Human Function World Model and Medicine: Human Function Exists Independently of Medicine, and Medicine Serves Human Function](../HFWM_AND_MEDICINE.md)
-- [《人体功能世界模型与医学：人体功能本就存在，医学为人体功能服务》](../HFWM_AND_MEDICINE.zh-CN.md)
+- [The Human Function World Model and Medicine: Human Function Exists Independently of Medicine, and Medicine Serves Human Function](../essays/HFWM_AND_MEDICINE.md)
+- [《人体功能世界模型与医学：人体功能本就存在，医学为人体功能服务》](../essays/HFWM_AND_MEDICINE.zh-CN.md)
