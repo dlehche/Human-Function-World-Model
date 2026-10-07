@@ -9,7 +9,7 @@
 **Zenodo DOI：** [10.5281/zenodo.23180973](https://doi.org/10.5281/zenodo.23180973)  
 **Zenodo 记录：** https://zenodo.org/records/23180973  
 **许可：** Creative Commons Attribution-NonCommercial 4.0 International（CC BY-NC 4.0）  
-**状态：** Zenodo 已归档概念架构与研究议程；属于 UOHF/HFWM 研究计划中的专题论文
+**状态：** Zenodo 已归档概念架构与研究议程；属于建立在 UOHF 语义基础之上的 HFWM 模型互操作专题论文
 
 **[中文完整译稿](Human_Model_Interoperability_ZH_V1.0.md)** · **[English full paper](Human_Model_Interoperability_EN_V1.0.md)** · [English overview](README.md) · [引用元数据](CITATION.cff) · [权利与复用](RIGHTS_AND_REUSE.md)
 
@@ -25,7 +25,7 @@
 
 其中，UOHF 提供语义身份与受治理关系；HFWM 提供绑定于同一个人的模型协调、证据、时间与版本更新架构；不同领域模型继续保留自己的科学内容。
 
-## 在仓库中的位置
+## 在 HFWM 研究体系中的位置
 
 这是一篇**模型互操作专题论文**，不替代：
 
