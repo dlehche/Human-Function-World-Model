@@ -1,6 +1,6 @@
 # Purpose-Asymmetric, Operationally Bidirectional Medicine–Human-Function Reasoning
 
-[中文](MEDICINE_FUNCTION_BIDIRECTIONAL.zh-CN.md) · [Public explanatory essay](../HFWM_AND_MEDICINE.md)
+[中文](MEDICINE_FUNCTION_BIDIRECTIONAL.zh-CN.md) · [Public explanatory essay](../essays/HFWM_AND_MEDICINE.md)
 
 HFWM connects medicine and human function without collapsing one into the other.
 
