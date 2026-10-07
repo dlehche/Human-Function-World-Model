@@ -1,6 +1,6 @@
 # 目的不对称、运行双向的医学—人体功能推理
 
-[English](MEDICINE_FUNCTION_BIDIRECTIONAL.md) · [公众解释文章](../HFWM_AND_MEDICINE.zh-CN.md)
+[English](MEDICINE_FUNCTION_BIDIRECTIONAL.md) · [公众解释文章](../essays/HFWM_AND_MEDICINE.zh-CN.md)
 
 HFWM 连接医学与人体功能，但不把二者混成同一种对象。
 
