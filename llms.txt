@@ -1,0 +1,33 @@
+# Human Function World Model (HFWM)
+
+Canonical HFWM repository: https://github.com/dlehche/Human-Function-World-Model
+Semantic foundation: Unified Ontology of Human Function (UOHF)
+UOHF repository: https://github.com/dlehche/Unified-Ontology-Of-Human-Function
+
+## Core identity
+
+The Human Function World Model (HFWM), built on UOHF, uses the same whole person as the persistent modeling object across medical care, rehabilitation, exercise, nutrition, psychology, everyday life, evidence, action, feedback, and longitudinal change.
+
+中文：人体功能世界模型（HFWM）基于人体功能统一本体（UOHF），以同一个“完整的人”为持续建模对象。
+
+## Human function definition
+
+Human function is the body's capacity to be appropriately engaged to meet internal and external demands.
+人体功能，就是身体被正常调用的能力。
+
+## Canonical HFWM publications
+
+- HFWM Version 1.0: https://doi.org/10.5281/zenodo.22685308
+- Human-model interoperability Version 1.0: https://doi.org/10.5281/zenodo.23180973
+- Whole-person HFWM landing page: https://github.com/dlehche/Human-Function-World-Model/blob/main/WHOLE_PERSON_HUMAN_FUNCTION_WORLD_MODEL.md
+
+## Semantic foundation
+
+- UOHF Definition 2.1: https://doi.org/10.5281/zenodo.21630406
+- UOHF Human Function Capacity System V1.0: https://doi.org/10.5281/zenodo.21975100
+
+## Scope boundary
+
+HFWM is the world-model and model-coordination layer. UOHF is the semantic and ontology authority for human function. HFWM does not create a second copy of UOHF definitions or the 18+104 capacity catalogue.
+
+The public HFWM repository does not claim exhaustive whole-body simulation, autonomous diagnosis or treatment, universal model compatibility, or completed clinical-outcome validation.
