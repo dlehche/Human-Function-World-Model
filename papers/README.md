@@ -36,6 +36,21 @@ This is the dedicated canonical HFWM architecture publication. UOHF remains the 
 
 This paper develops the cross-model interoperability layer: heterogeneous medical, physiological, psychological, cognitive, movement, nutritional, behavioral, environmental, device, and AI models can retain their native meanings while contributing to a shared interpretation of the same continuing person.
 
+## Whole-person comparative conceptual study
+
+### Modeling the Whole Person: Unresolved Questions in Current Medical, Physiological, and Health World Models and a Response from the Human Function World Model
+
+**Author:** Lei Che  
+**Publication date:** 11 October 2026  
+**Status:** Zenodo-archived bilingual preprint; not peer reviewed  
+**DOI:** [10.5281/zenodo.23290873](https://doi.org/10.5281/zenodo.23290873)  
+**License:** CC BY-NC 4.0
+
+- [Publication overview and scientific scope](whole-person-comparative/README.md)
+- [Zenodo record — English and Chinese PDFs](https://zenodo.org/records/23290873)
+
+This conceptual comparison evaluates the scope and evidence requirements of existing medical, physiological and health world models, alongside computational digital-twin foundations. It proposes conditional arguments, constructed person-level probes and a falsifiable evaluation programme. It is not an executed computational benchmark or a claim of clinical effectiveness. Both language editions represent one study. It does not replace the canonical HFWM framework publication or the focused interoperability paper.
+
 ## Root hypothesis manuscript
 
 ### Human function as a demand-conditioned organising coordinate for whole-person medicine: a testable hypothesis
