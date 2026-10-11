@@ -14,8 +14,9 @@
 |---|---|---:|---|---|
 | **2026-09-10** | *The Human Function World Model: Modeling the Whole Person Through Human Function Across Tasks, States, Actions, and Longitudinal Change* | 1.0 | [10.5281/zenodo.22685308](https://doi.org/10.5281/zenodo.22685308) | Zenodo-archived preprint |
 | **2026-10-06** | *Connecting Human Models Through Human Function: Toward a Common Computational Protocol for Whole-Person Modeling* | 1.0 | [10.5281/zenodo.23180973](https://doi.org/10.5281/zenodo.23180973) | Zenodo-archived focused publication |
+| **2026-10-11** | *Modeling the Whole Person: Unresolved Questions in Current Medical, Physiological, and Health World Models and a Response from the Human Function World Model* | Same-study bilingual preprint | [10.5281/zenodo.23290873](https://doi.org/10.5281/zenodo.23290873) | Zenodo-archived comparative conceptual study (CC BY-NC 4.0) |
 
-The human-model interoperability paper develops the model-network and interoperability question under the HFWM research program. It does not replace the canonical HFWM framework publication or the UOHF semantic foundation.
+The 6 October interoperability paper develops model-network interoperability. The 11 October whole-person comparative preprint places HFWM beside existing medical, physiological, health and computational models, identifies conditions for person-level interpretation and proposes falsifiable evaluations. Neither replaces the canonical HFWM framework publication or the UOHF semantic foundation. The comparative study does not report executed benchmarks or independent clinical validation.
 
 ## Governance rule
 
