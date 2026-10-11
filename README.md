@@ -2,7 +2,7 @@
 
 ## A whole-person world model organized through human function
 
-[中文](README.zh-CN.md) · **[HFWM V1.0](https://doi.org/10.5281/zenodo.22685308)** · **[Model interoperability V1.0](https://doi.org/10.5281/zenodo.23180973)** · [Whole-person landing page](WHOLE_PERSON_HUMAN_FUNCTION_WORLD_MODEL.md) · [Framework paper](papers/hfwm-framework/HFWM_EN.md) · [Architecture](architecture/README.md) · [Capacity coordinate](capacity-coordinate/README.md) · [Functional Bridge](functional-bridge/README.md) · [Papers](papers/README.md) · [References](references/README.md) · [Public boundary](PUBLIC_RELEASE_BOUNDARY.md) · [Rights](RIGHTS_AND_REUSE.md)
+[中文](README.zh-CN.md) · **[HFWM V1.0](https://doi.org/10.5281/zenodo.22685308)** · **[Model interoperability V1.0](https://doi.org/10.5281/zenodo.23180973)** · **[Whole-person comparative study](https://doi.org/10.5281/zenodo.23290873)** · [Whole-person landing page](WHOLE_PERSON_HUMAN_FUNCTION_WORLD_MODEL.md) · [Framework paper](papers/hfwm-framework/HFWM_EN.md) · [Architecture](architecture/README.md) · [Capacity coordinate](capacity-coordinate/README.md) · [Functional Bridge](functional-bridge/README.md) · [Papers](papers/README.md) · [References](references/README.md) · [Public boundary](PUBLIC_RELEASE_BOUNDARY.md) · [Rights](RIGHTS_AND_REUSE.md)
 
 **Official name:** Human Function World Model  
 **Official abbreviation:** HFWM  
@@ -11,6 +11,7 @@
 **Correspondence:** dlehche@gmail.com  
 **Canonical HFWM publication:** [10.5281/zenodo.22685308](https://doi.org/10.5281/zenodo.22685308)  
 **Latest focused interoperability publication:** [10.5281/zenodo.23180973](https://doi.org/10.5281/zenodo.23180973)  
+**Whole-person comparative preprint:** [10.5281/zenodo.23290873](https://doi.org/10.5281/zenodo.23290873) (11 October 2026; CC BY-NC 4.0)  
 **Semantic foundation:** [Unified Ontology of Human Function (UOHF)](https://github.com/dlehche/Unified-Ontology-Of-Human-Function)  
 **Public publication/document license:** CC BY-NC 4.0 unless a specific record states otherwise
 
@@ -70,8 +71,9 @@ This repository is the dedicated public research home for HFWM as it grows beyon
 
 - **HFWM Version 1.0:** *The Human Function World Model: Modeling the Whole Person Through Human Function Across Tasks, States, Actions, and Longitudinal Change*. Zenodo DOI: [10.5281/zenodo.22685308](https://doi.org/10.5281/zenodo.22685308).
 - **Human-model interoperability Version 1.0:** *Connecting Human Models Through Human Function: Toward a Common Computational Protocol for Whole-Person Modeling*. Zenodo DOI: [10.5281/zenodo.23180973](https://doi.org/10.5281/zenodo.23180973). [English and Chinese full text](papers/human-model-interoperability/README.md).
+- **Whole-person comparative conceptual study (11 October 2026):** *Modeling the Whole Person: Unresolved Questions in Current Medical, Physiological, and Health World Models and a Response from the Human Function World Model*. Zenodo DOI: [10.5281/zenodo.23290873](https://doi.org/10.5281/zenodo.23290873). [Study overview](papers/whole-person-comparative/README.md).
 
-The first publication defines the dedicated HFWM architecture; the second develops how heterogeneous human models can interoperate around the same whole person through human function. UOHF remains the semantic authority for human-function definitions and governed ontology identities.
+The first publication defines the dedicated HFWM architecture; the interoperability study develops how heterogeneous models contribute to the same person; and the comparative study examines existing medical, physiological, health and computational modeling approaches, question-relative adequacy, evidence constraints and falsifiable evaluation. The comparative preprint reports conceptual analyses and constructed probes, not a validated benchmark or clinical benefit. UOHF remains the semantic authority for human-function definitions and governed ontology identities.
 
 
 A targeted public search completed in August 2026 did not identify an earlier independent dedicated framework with the same organizing scope across internal/external tasks, human-function capacity and engagement, medicine-function bidirectional reasoning, responsibility routing, and longitudinal whole-person update. This is a provisional bibliographic statement and should be revised if earlier equivalent work is identified.
@@ -204,6 +206,7 @@ This is the root empirical hypothesis manuscript. UOHF formalises the hypothesis
 | [Root hypothesis manuscript](papers/human-function-hypothesis/HYPOTHESIS_EN.md) | Demand-conditioned human-function organising coordinate and falsifiable root hypothesis |
 | [HFWM Version 1.0 framework paper](papers/hfwm-framework/HFWM_EN.md) | Canonical dedicated HFWM framework publication · DOI 10.5281/zenodo.22685308 |
 | [Human-model interoperability V1.0](papers/human-model-interoperability/README.md) | Model interoperability around the same whole person · DOI 10.5281/zenodo.23180973 |
+| [Whole-person comparative preprint](papers/whole-person-comparative/README.md) | Comparative conceptual study of existing models, computability and falsifiable whole-person evaluation · DOI 10.5281/zenodo.23290873 |
 | [Whole-person landing page](WHOLE_PERSON_HUMAN_FUNCTION_WORLD_MODEL.md) | Canonical whole-person model statement and discovery page |
 | [中文论文](papers/hfwm-framework/HFWM_ZH.md) | 中文完整对照稿 |
 | [Architecture](architecture/README.md) | Public HFWM architecture |
