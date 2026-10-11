@@ -59,6 +59,22 @@
       "repositoryPathChinese": "papers/human-model-interoperability/Human_Model_Interoperability_ZH_V1.0.md",
       "relationToHFWM": "focused-interoperability-publication",
       "relationToUohf": "uses-uohf-semantic-foundation"
+    },
+    {
+      "id": "whole-person-comparative-conceptual-study",
+      "title": "Modeling the Whole Person: Unresolved Questions in Current Medical, Physiological, and Health World Models and a Response from the Human Function World Model",
+      "author": "Lei Che",
+      "publicationDate": "2026-10-11",
+      "status": "zenodo-archived-bilingual-preprint",
+      "record": "https://zenodo.org/records/23290873",
+      "doi": "10.5281/zenodo.23290873",
+      "license": "CC-BY-NC-4.0",
+      "relationToHFWM": "focused-comparative-conceptual-study-not-a-replacement-for-canonical-framework",
+      "relationToInteroperability": "compares-computational-and-human-model-approaches-and-proposes-falsifiable-evaluation",
+      "languageEditions": [
+        "en",
+        "zh"
+      ]
     }
   ]
 }
