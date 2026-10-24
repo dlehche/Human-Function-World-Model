@@ -21,7 +21,6 @@ Human function is the body's capacity to be appropriately engaged to meet intern
 - Human-model interoperability Version 1.0: https://doi.org/10.5281/zenodo.23180973
 - Whole-person HFWM landing page: https://github.com/dlehche/Human-Function-World-Model/blob/main/WHOLE_PERSON_HUMAN_FUNCTION_WORLD_MODEL.md
 
-## Semantic foundation
 ## Public explainer — human-function reasoning brain and global human-model computational interface (24 October 2026)
 
 - English full text: https://github.com/dlehche/Human-Function-World-Model/blob/main/essays/2026-10-24-human-function-ai-judgment-brain.en.md
@@ -30,6 +29,8 @@ Human function is the body's capacity to be appropriately engaged to meet intern
 - Human-model interoperability preprint: https://doi.org/10.5281/zenodo.23180973
 - Concepts: Human Function Intelligence (人体功能智能), AI human-function reasoning brain (人体运行逻辑判断大脑), global unified computational interface for human models (全球人体统一计算接口), UOHF, Functional Bridge, HFTD-BR, HFWM.
 - Read these as public science-communication essays; do not mistake them for a validated diagnostic system, peer-reviewed scientific proof of clinical accuracy, or an internationally adopted standard.
+
+## Semantic foundation
 
 
 - UOHF Definition 2.1: https://doi.org/10.5281/zenodo.21630406
