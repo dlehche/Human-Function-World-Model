@@ -184,6 +184,8 @@ See [`architecture/REPORT_PROJECTION.md`](architecture/REPORT_PROJECTION.md).
 
 ## Public explanatory essays
 
+**New bilingual public explainer (24 October 2026):** [Toward a Global Unified Computational Interface for Human Models: Human Function Gives AI a Reasoning Framework for How the Human Body Works](essays/2026-10-24-human-function-ai-judgment-brain.en.md) · [中文：迈向全球人体统一计算接口：人体功能让AI拥有人体运行逻辑判断大脑](essays/2026-10-24-human-function-ai-judgment-brain.zh-CN.md). Explains the formal human-function necessity preprint ([DOI 10.5281/zenodo.23598781](https://doi.org/10.5281/zenodo.23598781)), UOHF, HFWM, human-function reasoning, and cross-model interoperability. **Public explanation, not a peer-reviewed paper or an adopted global standard.**
+
 These essays explain the HFWM research program for a broader scientific and public audience. They are non-normative companions to the formal framework.
 
 - **[From 1977 to 2026: The Human Function World Model Is Responding to a Question Medicine Has Pursued for Nearly 50 Years](essays/HFWM_1977_TO_2026.md)** · [中文](essays/HFWM_1977_TO_2026.zh-CN.md)
