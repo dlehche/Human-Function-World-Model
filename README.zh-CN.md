@@ -160,6 +160,8 @@ HFWM 可以表达医生、护士、物理治疗师、作业治疗师、言语语
 
 ## 公开解释性文章
 
+**最新中英文公众科普文章（2026-10-24）：** [《迈向全球人体统一计算接口：人体功能让AI拥有人体运行逻辑判断大脑》](essays/2026-10-24-human-function-ai-judgment-brain.zh-CN.md) · [English: Toward a Global Unified Computational Interface for Human Models](essays/2026-10-24-human-function-ai-judgment-brain.en.md)。用上楼膝痛的例子解释人体功能必要性证明（[DOI 10.5281/zenodo.23598781](https://doi.org/10.5281/zenodo.23598781)）、UOHF、Functional Bridge、HFTD-BR、HFWM 与人体模型互操作。**属于公众科研解读，不是新的同行评议论文或已经实施的国际标准。**
+
 以下文章面向更广泛的科研与公众读者，用于解释 HFWM 的问题背景和研究定位；它们不是规范性定义文件。
 
 - **[《从1977到2026：人体功能世界模型，正在回应医学追问近50年的一个问题》](essays/HFWM_1977_TO_2026.zh-CN.md)** · [English](essays/HFWM_1977_TO_2026.md)
