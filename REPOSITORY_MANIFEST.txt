@@ -29,6 +29,8 @@ benchmarks/README.md
 capacity-coordinate/CORE_CAPACITY_MAP.md
 capacity-coordinate/README.md
 capacity-coordinate/README.zh-CN.md
+essays/2026-10-24-human-function-ai-judgment-brain.en.md
+essays/2026-10-24-human-function-ai-judgment-brain.zh-CN.md
 essays/HFWM_1977_TO_2026.md
 essays/HFWM_1977_TO_2026.zh-CN.md
 essays/HFWM_AND_MEDICINE.md
@@ -66,5 +68,6 @@ papers/human-model-interoperability/Human_Model_Interoperability_ZH_V1.0.md
 papers/human-model-interoperability/README.md
 papers/human-model-interoperability/README.zh-CN.md
 papers/human-model-interoperability/RIGHTS_AND_REUSE.md
+papers/whole-person-comparative/README.md
 references/README.md
 versions/README.md
