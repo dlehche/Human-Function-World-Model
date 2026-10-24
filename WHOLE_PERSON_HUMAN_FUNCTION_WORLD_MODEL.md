@@ -74,6 +74,14 @@ It connects medical care, rehabilitation, exercise, nutrition, psychology, and e
 ---
 
 ## Common discovery phrases / 常用检索表达
+### Public introduction / 公众科普入口（2026-10-24）
+
+- [English: Toward a Global Unified Computational Interface for Human Models — Human Function and the AI Reasoning Brain](essays/2026-10-24-human-function-ai-judgment-brain.en.md)
+- [中文：《迈向全球人体统一计算接口：人体功能让AI拥有人体运行逻辑判断大脑》](essays/2026-10-24-human-function-ai-judgment-brain.zh-CN.md)
+- [The human-function relations necessity preprint / 人体功能关系必要性理论预印本](https://doi.org/10.5281/zenodo.23598781)
+
+The article explains how human-function relations, UOHF semantics, Functional Bridge, HFTD-BR reasoning, and the HFWM whole-person model relate to the proposed model-interoperability interface. / 该公众文章介绍人体功能必要性证明、判断大脑与未来统一计算接口的关系；不表示临床效果或国际标准已经验证。
+
 
 The following phrases refer to the same core modeling direction in this repository:
 
