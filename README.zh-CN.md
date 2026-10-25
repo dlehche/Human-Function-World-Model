@@ -2,7 +2,7 @@
 
 ## 以人体功能为统一坐标的完整人世界模型
 
-[English](README.md) · **[HFWM V1.0](https://doi.org/10.5281/zenodo.22685308)** · **[模型互操作 V1.0](https://doi.org/10.5281/zenodo.23180973)** · **[完整人比较研究](https://doi.org/10.5281/zenodo.23290873)** · [“完整的人”入口](WHOLE_PERSON_HUMAN_FUNCTION_WORLD_MODEL.md) · [英文完整论文](papers/hfwm-framework/HFWM_EN.md) · [中文完整论文](papers/hfwm-framework/HFWM_ZH.md) · [总体架构](architecture/README.zh-CN.md) · [18+104 能力坐标](capacity-coordinate/README.zh-CN.md) · [Functional Bridge](functional-bridge/README.zh-CN.md) · [论文总览](papers/README.md) · [参考文献](references/README.md) · [公开边界](PUBLIC_RELEASE_BOUNDARY.md)
+[English](README.md) · **[HFWM V1.0](https://doi.org/10.5281/zenodo.22685308)** · **[模型互操作 V1.0](https://doi.org/10.5281/zenodo.23180973)** · **[完整人比较研究](https://doi.org/10.5281/zenodo.23290873)** · [“完整的人”入口](WHOLE_PERSON_HUMAN_FUNCTION_WORLD_MODEL.md) · [英文完整论文](papers/hfwm-framework/HFWM_EN.md) · [中文完整论文](papers/hfwm-framework/HFWM_ZH.md) · [总体架构](architecture/README.zh-CN.md) · [18+104 能力坐标](capacity-coordinate/README.zh-CN.md) · [Functional Bridge](functional-bridge/README.zh-CN.md) · [论文总览](papers/README.md) · [参考文献](references/README.md) · [公开边界](PUBLIC_RELEASE_BOUNDARY.md) · **[《什么是完整人？》](papers/whole-person-definition/README.md)**
 
 **正式英文名称：** Human Function World Model  
 **正式简称：** HFWM  
@@ -183,6 +183,7 @@ HFWM 可以表达医生、护士、物理治疗师、作业治疗师、言语语
 |---|---|
 | [HFWM Version 1.0](papers/hfwm-framework/HFWM_ZH.md) | HFWM 专门世界模型框架 · DOI 10.5281/zenodo.22685308 |
 | [人体模型互操作 V1.0](papers/human-model-interoperability/README.zh-CN.md) | 异构人体模型围绕同一个完整的人互操作 · DOI 10.5281/zenodo.23180973 |
+| [《什么是完整人？》中文全文](papers/whole-person-definition/WHAT_IS_A_WHOLE_PERSON_ZH.md) · [English](papers/whole-person-definition/WHAT_IS_A_WHOLE_PERSON_EN.md) | 完整人本体论与计算定义；同一研究的中英文两版；Zenodo DOI已预留、尚未确认发表 |
 | [完整个人建模比较预印本](papers/whole-person-comparative/README.md) | 对已有世界模型的来源限定比较、计算条件和可证伪评价 · DOI 10.5281/zenodo.23290873 |
 | [“完整的人”模型入口](WHOLE_PERSON_HUMAN_FUNCTION_WORLD_MODEL.md) | “完整的人”持续建模核心说明 |
 | [总体架构](architecture/README.zh-CN.md) | HFWM 公开架构 |
