@@ -36,6 +36,22 @@ This is the dedicated canonical HFWM architecture publication. UOHF remains the 
 
 This paper develops the cross-model interoperability layer: heterogeneous medical, physiological, psychological, cognitive, movement, nutritional, behavioral, environmental, device, and AI models can retain their native meanings while contributing to a shared interpretation of the same continuing person.
 
+## Whole-person ontological and computational definition / 完整人本体论与计算科学定义
+
+### What Is a Whole Person? Toward an Ontological and Computational Definition for Whole-Person Modeling
+
+**Author:** Lei Che  
+**Manuscript date:** 25 October 2026  
+**Status:** Public bilingual repository manuscript; Zenodo DOI reserved, publication not yet confirmed  
+**Reserved DOI (not registered):** `10.5281/zenodo.23642975`  
+**License:** CC BY-NC 4.0
+
+- [English full text](whole-person-definition/WHAT_IS_A_WHOLE_PERSON_EN.md)
+- [中文论文全文](whole-person-definition/WHAT_IS_A_WHOLE_PERSON_ZH.md)
+- [Bilingual publication overview and status](whole-person-definition/README.md)
+
+The paper distinguishes the continuing human subject from finite model representations, model scope (P0/P1), and independent task validity (V). It develops an ontological working definition, formal inference constraint, counterexamples, and an evaluation proposal. The two language editions are one study. This paper does not claim a completed validated whole-person simulation or international standard.
+
 ## Whole-person comparative conceptual study
 
 ### Modeling the Whole Person: Unresolved Questions in Current Medical, Physiological, and Health World Models and a Response from the Human Function World Model
