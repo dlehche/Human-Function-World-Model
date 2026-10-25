@@ -75,6 +75,26 @@
         "en",
         "zh"
       ]
+    },
+    {
+      "id": "what-is-a-whole-person-ontological-computational-definition",
+      "title": "What Is a Whole Person? Toward an Ontological and Computational Definition for Whole-Person Modeling",
+      "titleChinese": "什么是完整人？迈向完整个人建模的本体论与计算科学定义",
+      "author": "Lei Che",
+      "manuscriptDate": "2026-10-25",
+      "status": "repository-bilingual-manuscript-zenodo-doi-reserved-not-published",
+      "doi": null,
+      "reservedDoi": "10.5281/zenodo.23642975",
+      "license": "CC-BY-NC-4.0",
+      "repositoryOverview": "papers/whole-person-definition/README.md",
+      "repositoryPathEnglish": "papers/whole-person-definition/WHAT_IS_A_WHOLE_PERSON_EN.md",
+      "repositoryPathChinese": "papers/whole-person-definition/WHAT_IS_A_WHOLE_PERSON_ZH.md",
+      "languageEditions": [
+        "en",
+        "zh"
+      ],
+      "relationToHFWM": "independent-ontological-and-computational-definition-of-the-whole-person; HFWM-is-one-possible-implementation",
+      "publicationBoundary": "reserved DOI not registered until Zenodo publishes; not peer reviewed"
     }
   ]
 }
