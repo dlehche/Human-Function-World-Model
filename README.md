@@ -2,7 +2,7 @@
 
 ## A whole-person world model organized through human function
 
-[中文](README.zh-CN.md) · **[HFWM V1.0](https://doi.org/10.5281/zenodo.22685308)** · **[Model interoperability V1.0](https://doi.org/10.5281/zenodo.23180973)** · **[Whole-person comparative study](https://doi.org/10.5281/zenodo.23290873)** · [Whole-person landing page](WHOLE_PERSON_HUMAN_FUNCTION_WORLD_MODEL.md) · [Framework paper](papers/hfwm-framework/HFWM_EN.md) · [Architecture](architecture/README.md) · [Capacity coordinate](capacity-coordinate/README.md) · [Functional Bridge](functional-bridge/README.md) · [Papers](papers/README.md) · [References](references/README.md) · [Public boundary](PUBLIC_RELEASE_BOUNDARY.md) · [Rights](RIGHTS_AND_REUSE.md)
+[中文](README.zh-CN.md) · **[HFWM V1.0](https://doi.org/10.5281/zenodo.22685308)** · **[Model interoperability V1.0](https://doi.org/10.5281/zenodo.23180973)** · **[Whole-person comparative study](https://doi.org/10.5281/zenodo.23290873)** · [Whole-person landing page](WHOLE_PERSON_HUMAN_FUNCTION_WORLD_MODEL.md) · [Framework paper](papers/hfwm-framework/HFWM_EN.md) · [Architecture](architecture/README.md) · [Capacity coordinate](capacity-coordinate/README.md) · [Functional Bridge](functional-bridge/README.md) · [Papers](papers/README.md) · [References](references/README.md) · [Public boundary](PUBLIC_RELEASE_BOUNDARY.md) · [Rights](RIGHTS_AND_REUSE.md) · **[What Is a Whole Person?](papers/whole-person-definition/README.md)**
 
 **Official name:** Human Function World Model  
 **Official abbreviation:** HFWM  
@@ -208,6 +208,7 @@ This is the root empirical hypothesis manuscript. UOHF formalises the hypothesis
 | [Root hypothesis manuscript](papers/human-function-hypothesis/HYPOTHESIS_EN.md) | Demand-conditioned human-function organising coordinate and falsifiable root hypothesis |
 | [HFWM Version 1.0 framework paper](papers/hfwm-framework/HFWM_EN.md) | Canonical dedicated HFWM framework publication · DOI 10.5281/zenodo.22685308 |
 | [Human-model interoperability V1.0](papers/human-model-interoperability/README.md) | Model interoperability around the same whole person · DOI 10.5281/zenodo.23180973 |
+| [What Is a Whole Person? (English)](papers/whole-person-definition/WHAT_IS_A_WHOLE_PERSON_EN.md) · [中文](papers/whole-person-definition/WHAT_IS_A_WHOLE_PERSON_ZH.md) | Ontological and computational definition; one bilingual manuscript; Zenodo DOI reserved but publication not confirmed |
 | [Whole-person comparative preprint](papers/whole-person-comparative/README.md) | Comparative conceptual study of existing models, computability and falsifiable whole-person evaluation · DOI 10.5281/zenodo.23290873 |
 | [Whole-person landing page](WHOLE_PERSON_HUMAN_FUNCTION_WORLD_MODEL.md) | Canonical whole-person model statement and discovery page |
 | [中文论文](papers/hfwm-framework/HFWM_ZH.md) | 中文完整对照稿 |
