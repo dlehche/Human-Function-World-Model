@@ -29,3 +29,7 @@ A benchmark must not expose private production decision rules merely to demonstr
 5. longitudinal empirical validation;
 6. calibrated future-state prediction;
 7. causal/counterfactual validation where scientifically justified.
+
+## Related prospective evaluation protocol
+
+The [verifiable whole-person computational-relations preprint](../papers/whole-person-computational-relations/README.md) (DOI: [10.5281/zenodo.23922582](https://doi.org/10.5281/zenodo.23922582)) specifies proposed relation-qualification checks, finite competency cases, source-dependency revision tests and strong-baseline evaluation design. **This link does not mean the public benchmark or independent performance results have been implemented or released.**
