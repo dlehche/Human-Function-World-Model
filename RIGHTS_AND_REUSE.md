@@ -6,6 +6,8 @@ Public HFWM publication and documentation content uses **Creative Commons Attrib
 
 - **The Human Function World Model**, Version 1.0 — DOI: https://doi.org/10.5281/zenodo.22685308 — CC BY-NC 4.0.
 - **Connecting Human Models Through Human Function**, Version 1.0 — DOI: https://doi.org/10.5281/zenodo.23180973 — CC BY-NC 4.0.
+- **Modeling the Whole Person**, comparative conceptual preprint — DOI: https://doi.org/10.5281/zenodo.23290873 — CC BY-NC 4.0.
+- **From Heterogeneous Human Data to Verifiable Whole-Person Computational Relations**, methods/protocol preprint — DOI: https://doi.org/10.5281/zenodo.23922582 — CC BY-NC 4.0 (author-confirmed).
 
 Publication-specific rights and citation metadata are also maintained inside the corresponding paper directories.
 
