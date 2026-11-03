@@ -67,6 +67,23 @@ The paper distinguishes the continuing human subject from finite model represent
 
 This conceptual comparison evaluates the scope and evidence requirements of existing medical, physiological and health world models, alongside computational digital-twin foundations. It proposes conditional arguments, constructed person-level probes and a falsifiable evaluation programme. It is not an executed computational benchmark or a claim of clinical effectiveness. Both language editions represent one study. It does not replace the canonical HFWM framework publication or the focused interoperability paper.
 
+## Focused whole-person computational-relations preprint
+
+### From Heterogeneous Human Data to Verifiable Whole-Person Computational Relations: A Human-Function-Based Relational Specification and Cross-Disciplinary Evaluation Protocol
+
+**Author:** Lei Che  
+**Publication date:** 3 November 2026 (author-supplied)  
+**Resource type:** Preprint — computational methods and prospective evaluation protocol  
+**Zenodo DOI:** [10.5281/zenodo.23922582](https://doi.org/10.5281/zenodo.23922582)  
+**License:** CC BY-NC 4.0 (author-confirmed)  
+**Status:** Zenodo-linked preprint; not peer reviewed; independent benchmark results not claimed
+
+- [Bilingual publication overview and research boundary](whole-person-computational-relations/README.md)
+- [Zenodo record and deposited PDF](https://zenodo.org/records/23922582)
+- [Publication-specific citation metadata](whole-person-computational-relations/CITATION.cff)
+
+This paper specifies evidence-qualified translation from heterogeneous human observations and models to verifiable whole-person computational relations, with a prospective falsification-oriented evaluation protocol. It extends the prior framework, interoperability and comparative studies without replacing or upgrading any of them. No independent computational superiority or clinical validation is claimed.
+
 ## Root hypothesis manuscript
 
 ### Human function as a demand-conditioned organising coordinate for whole-person medicine: a testable hypothesis
