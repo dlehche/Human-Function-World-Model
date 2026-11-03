@@ -95,6 +95,23 @@
       ],
       "relationToHFWM": "independent-ontological-and-computational-definition-of-the-whole-person; HFWM-is-one-possible-implementation",
       "publicationBoundary": "reserved DOI not registered until Zenodo publishes; not peer reviewed"
+    },
+    {
+      "id": "whole-person-computational-relations-methods-protocol",
+      "title": "From Heterogeneous Human Data to Verifiable Whole-Person Computational Relations: A Human-Function-Based Relational Specification and Cross-Disciplinary Evaluation Protocol",
+      "author": "Lei Che",
+      "publicationDate": "2026-11-03",
+      "resourceType": "Publication / Preprint",
+      "status": "zenodo-linked-preprint-author-confirmed",
+      "record": "https://zenodo.org/records/23922582",
+      "doi": "10.5281/zenodo.23922582",
+      "license": "CC-BY-NC-4.0",
+      "repositoryOverview": "papers/whole-person-computational-relations/README.md",
+      "repositoryCitation": "papers/whole-person-computational-relations/CITATION.cff",
+      "relationToHFWM": "independent-focused-relational-computational-methods-and-prospective-evaluation-protocol; does-not-supersede-hfwm-v1.0",
+      "relationToInteroperability": "specifies-evidence-qualified-cross-domain-claim-transfer-and-validation-protocol",
+      "evidenceBoundary": "No independent executed benchmark, clinical predictive superiority or production runtime release is claimed",
+      "metadataProvenance": "DOI, date and CC BY-NC 4.0 license supplied by author; public Zenodo landing metadata not independently fetched at integration time"
     }
   ]
 }
