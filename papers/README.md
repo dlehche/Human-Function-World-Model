@@ -84,6 +84,23 @@ This conceptual comparison evaluates the scope and evidence requirements of exis
 
 This paper specifies evidence-qualified translation from heterogeneous human observations and models to verifiable whole-person computational relations, with a prospective falsification-oriented evaluation protocol. It extends the prior framework, interoperability and comparative studies without replacing or upgrading any of them. No independent computational superiority or clinical validation is claimed.
 
+## Whole-person temporal state understanding and future prediction — focused preprint
+
+### From Human-Function Relations to Whole-Person State Understanding and Future Prediction: A Demand–Capacity–Engagement Temporal Specification, Prior-Art Comparison and Falsifiable Validation Protocol
+
+**Author:** Lei Che ([ORCID](https://orcid.org/0009-0001-8143-1675))  
+**Manuscript date:** 4 November 2026 (author-supplied manuscript)  
+**Type:** Research methods, prior-art comparison and prospective validation protocol  
+**Zenodo DOI:** [10.5281/zenodo.23934150](https://doi.org/10.5281/zenodo.23934150)  
+**License:** CC BY-NC 4.0 is the repository default; the Zenodo record license remains to be independently checked  
+**Status:** Author-identified Zenodo preprint; no registered prospective study or independent longitudinal forecasting result reported
+
+- [English/Chinese overview and scientific boundaries](papers/whole-person-state-prediction/README.md)
+- [Original Zenodo record and deposited publication](https://zenodo.org/records/23934150)
+- [Paper-specific citation](papers/whole-person-state-prediction/CITATION.cff)
+
+This paper separates event time from knowledge availability and specifies current-state inference, conditional time-bounded prediction, prior-art comparisons and prospective falsification criteria. It explicitly reports no new forecasting performance or intervention benefit. It is a **different focused study** from the 3 November verifiable-computational-relations methods preprint and does not replace the canonical HFWM V1.0 framework.
+
 ## Root hypothesis manuscript
 
 ### Human function as a demand-conditioned organising coordinate for whole-person medicine: a testable hypothesis
@@ -97,10 +114,6 @@ This paper specifies evidence-qualified translation from heterogeneous human obs
 - [Manuscript overview](human-function-hypothesis/README.md)
 
 This manuscript states the root empirical hypothesis. UOHF is one formalisation; HFWM is its longitudinal multiscale extension.
-
-## Pending Zenodo record verification (not yet classified)
-
-- **[Zenodo record 23934150](https://zenodo.org/records/23934150)** — DOI string: `10.5281/zenodo.23934150`. Link supplied by the author on 4 November 2026. **Title, authorship, abstract, publication date, license and whether this belongs to the HFWM or UOHF series have not been verified.** This link is preserved for research-publication intake only and is **not** yet a canonical HFWM paper or a `PUBLICATIONS.json` entry. Do not infer peer-review or validation status.
 
 ## Publication boundary
 
