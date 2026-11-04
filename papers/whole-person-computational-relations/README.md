@@ -44,6 +44,10 @@ How can heterogeneous evidence from medicine, physiology, rehabilitation, exerci
 
 This is an **independent focused preprint**, not HFWM V2.0, not a UOHF ontology release, and not an update replacing earlier papers. / 本篇是独立专题预印本，不是 HFWM V2.0、本体版本升级或既有论文的替换版本。
 
+## Later related temporal research / 后续状态与预测研究
+
+A separate [whole-person state understanding and future prediction preprint](../whole-person-state-prediction/README.md) (DOI [10.5281/zenodo.23934150](https://doi.org/10.5281/zenodo.23934150)) extends the research questions from evidence-qualified relation transfer to dual-clock present-state interpretation and conditional future prediction. **It does not supersede this paper or provide independent forecasting validation.**
+
 ## Citation / 引用
 
 Che, Lei (2026). *From Heterogeneous Human Data to Verifiable Whole-Person Computational Relations: A Human-Function-Based Relational Specification and Cross-Disciplinary Evaluation Protocol*. [Preprint]. Zenodo. https://doi.org/10.5281/zenodo.23922582
