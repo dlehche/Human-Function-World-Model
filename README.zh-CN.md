@@ -2,7 +2,7 @@
 
 ## 以人体功能为统一坐标的完整人世界模型
 
-[English](README.md) · **[HFWM V1.0](https://doi.org/10.5281/zenodo.22685308)** · **[模型互操作 V1.0](https://doi.org/10.5281/zenodo.23180973)** · **[完整人比较研究](https://doi.org/10.5281/zenodo.23290873)** · **[可验证计算关系](https://doi.org/10.5281/zenodo.23922582)** · [“完整的人”入口](WHOLE_PERSON_HUMAN_FUNCTION_WORLD_MODEL.md) · [英文完整论文](papers/hfwm-framework/HFWM_EN.md) · [中文完整论文](papers/hfwm-framework/HFWM_ZH.md) · [总体架构](architecture/README.zh-CN.md) · [18+104 能力坐标](capacity-coordinate/README.zh-CN.md) · [Functional Bridge](functional-bridge/README.zh-CN.md) · [论文总览](papers/README.md) · [参考文献](references/README.md) · [公开边界](PUBLIC_RELEASE_BOUNDARY.md) · **[《什么是完整人？》](papers/whole-person-definition/README.md)**
+[English](README.md) · **[HFWM V1.0](https://doi.org/10.5281/zenodo.22685308)** · **[模型互操作 V1.0](https://doi.org/10.5281/zenodo.23180973)** · **[完整人比较研究](https://doi.org/10.5281/zenodo.23290873)** · **[可验证计算关系](https://doi.org/10.5281/zenodo.23922582)** · **[状态理解与未来预测](https://doi.org/10.5281/zenodo.23934150)** · [“完整的人”入口](WHOLE_PERSON_HUMAN_FUNCTION_WORLD_MODEL.md) · [英文完整论文](papers/hfwm-framework/HFWM_EN.md) · [中文完整论文](papers/hfwm-framework/HFWM_ZH.md) · [总体架构](architecture/README.zh-CN.md) · [18+104 能力坐标](capacity-coordinate/README.zh-CN.md) · [Functional Bridge](functional-bridge/README.zh-CN.md) · [论文总览](papers/README.md) · [参考文献](references/README.md) · [公开边界](PUBLIC_RELEASE_BOUNDARY.md) · **[《什么是完整人？》](papers/whole-person-definition/README.md)**
 
 **正式英文名称：** Human Function World Model  
 **正式简称：** HFWM  
@@ -13,6 +13,7 @@
 **最新模型互操作专题论文：** [10.5281/zenodo.23180973](https://doi.org/10.5281/zenodo.23180973)  
 **完整个人建模比较预印本：** [10.5281/zenodo.23290873](https://doi.org/10.5281/zenodo.23290873)（2026-10-11；CC BY-NC 4.0）  
 **可验证计算关系预印本：** [10.5281/zenodo.23922582](https://doi.org/10.5281/zenodo.23922582)（2026-11-03；CC BY-NC 4.0；计算方法与前瞻性验证方案）  
+**完整人状态理解与未来预测预印本：** [10.5281/zenodo.23934150](https://doi.org/10.5281/zenodo.23934150)（原稿日期2026-11-04；尚无独立纵向预测验证）  
 **语义基础：** [人体功能统一本体 UOHF](https://github.com/dlehche/Unified-Ontology-Of-Human-Function)  
 **公开论文/文档许可：** 如无单独声明，采用 CC BY-NC 4.0
 
@@ -74,8 +75,9 @@ UOHF Definition 2.1 随后恢复内部与外部需求的完整根范围。
 - **人体模型互操作 Version 1.0：**《Connecting Human Models Through Human Function: Toward a Common Computational Protocol for Whole-Person Modeling》，Zenodo DOI：[10.5281/zenodo.23180973](https://doi.org/10.5281/zenodo.23180973)。[中英文全文](papers/human-model-interoperability/README.zh-CN.md)。
 - **完整个人建模比较概念研究（2026-10-11）：**《完整的人如何被建模：现有医学、人体生理与人体健康世界模型的未解问题及人体功能世界模型的回应》。Zenodo DOI：[10.5281/zenodo.23290873](https://doi.org/10.5281/zenodo.23290873)。[论文说明](papers/whole-person-comparative/README.md)。
 - **可验证的完整人计算关系（2026-11-03）：**《从异构人体数据到可验证的完整人计算关系》。Zenodo DOI：[10.5281/zenodo.23922582](https://doi.org/10.5281/zenodo.23922582)。[中英文研究说明](papers/whole-person-computational-relations/README.md)。方法与验证方案预印本，不宣称已有独立实测或临床效果。
+- **完整人状态理解与未来预测（原稿日期2026-11-04）：**《From Human-Function Relations to Whole-Person State Understanding and Future Prediction》。Zenodo DOI：[10.5281/zenodo.23934150](https://doi.org/10.5281/zenodo.23934150)。[研究说明](papers/whole-person-state-prediction/README.md)。采用双时间轴的状态理解与未来预测研究方案，不宣称已完成独立预测实证。
 
-第一篇界定 HFWM 专门架构；第二篇研究异构人体模型互操作；第三篇比较现有模型与解释边界；第四篇提出跨领域有证据资格的计算关系与前瞻性验证方法。第三篇是比较概念研究，不是已执行的系统基准或临床验证。人体功能定义和正式本体身份的语义权威仍然属于 UOHF。
+第一篇界定 HFWM 专门架构；第二篇研究异构人体模型互操作；第三篇比较现有模型与解释边界；第四篇提出跨领域有证据资格的计算关系与前瞻性验证方法；第五篇研究双时间轴下的当前状态理解、条件性未来预测及可反驳验证，尚未报告独立预测结果。第三篇是比较概念研究，不是已执行的系统基准或临床验证。人体功能定义和正式本体身份的语义权威仍然属于 UOHF。
 
 
 ---
@@ -188,6 +190,7 @@ HFWM 可以表达医生、护士、物理治疗师、作业治疗师、言语语
 | [《什么是完整人？》中文全文](papers/whole-person-definition/WHAT_IS_A_WHOLE_PERSON_ZH.md) · [English](papers/whole-person-definition/WHAT_IS_A_WHOLE_PERSON_EN.md) | 完整人本体论与计算定义；同一研究的中英文两版；Zenodo DOI已预留、尚未确认发表 |
 | [完整个人建模比较预印本](papers/whole-person-comparative/README.md) | 对已有世界模型的来源限定比较、计算条件和可证伪评价 · DOI 10.5281/zenodo.23290873 |
 | [完整人可验证计算关系预印本](papers/whole-person-computational-relations/README.md) | 跨领域关系与证据资格、前瞻性计算验证方案 · DOI 10.5281/zenodo.23922582 |
+| [完整人状态理解与未来预测预印本](papers/whole-person-state-prediction/README.md) | 双时间轴状态判断、条件性纵向预测及未来独立验证计划 · DOI 10.5281/zenodo.23934150 |
 | [“完整的人”模型入口](WHOLE_PERSON_HUMAN_FUNCTION_WORLD_MODEL.md) | “完整的人”持续建模核心说明 |
 | [总体架构](architecture/README.zh-CN.md) | HFWM 公开架构 |
 | [Functional Bridge](functional-bridge/README.zh-CN.md) | 知识关系层及边界 |
