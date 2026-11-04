@@ -131,6 +131,26 @@
       "relationToPreviousRelationsPaper": "builds-on-verifiable-relational-specification-10.5281/zenodo.23922582-but-adds-dual-time-and-future-forecast-questions",
       "evidenceBoundary": "No preregistered prospective study, independently calibrated longitudinal predictor, clinical or intervention effects; author-run synthetic matched generic baseline showed same judgments",
       "metadataProvenance": "Title, authorship and abstract supplied by author and verified in attached manuscript; DOI supplied by author; Zenodo landing metadata inaccessible at integration"
+    },
+    {
+      "id": "multimodal-sensing-to-warranted-whole-person-inference",
+      "title": "From Multimodal Sensing to Warranted Whole-Person Inference: A Human-Function-Based Measurement-to-Claim Specification and Falsifiable Validation Protocol",
+      "author": "Lei Che",
+      "authorOrcid": "0009-0001-8143-1675",
+      "manuscriptDate": "2026-11-04",
+      "resourceType": "Publication / Preprint",
+      "status": "zenodo-linked-author-identified-methods-and-falsifiable-protocol",
+      "record": "https://zenodo.org/records/23936454",
+      "doi": "10.5281/zenodo.23936454",
+      "license": "CC-BY-NC-4.0",
+      "licenseProvenance": "HFWM repository documentation default only; Zenodo-record-specific license unverified",
+      "repositoryOverview": "papers/multimodal-sensing-to-warranted-inference/README.md",
+      "repositoryCitation": "papers/multimodal-sensing-to-warranted-inference/CITATION.cff",
+      "relationToHFWM": "independent-focused-sensing-measurement-to-person-claim-specification-not-framework-version",
+      "relationToPreviousPapers": "downstream of evidence-qualified whole-person computational relations (10.5281/zenodo.23922582) and dual-clock state/prediction methods (10.5281/zenodo.23934150)",
+      "languageBoundary": "English and Chinese manuscripts represent the same study",
+      "evidenceBoundary": "No new human participant study, production HFWM engine demonstration, independent engagement identification, clinical adjudication, predictive advantage or intervention effect",
+      "metadataProvenance": "Title, authorship, date, abstract and scope matched user-supplied manuscripts; DOI supplied by author; live Zenodo metadata/record license could not be independently retrieved"
     }
   ]
 }
