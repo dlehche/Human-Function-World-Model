@@ -50,6 +50,10 @@ The manuscript defines distinct test tracks: **current-state understanding** and
 
 This is **not** HFWM V2.0, not a second UOHF ontology release, not a software/runtime release, and not a validation claim for future forecasting.
 
+## Related measurement-to-claim research / 相关测量证据研究
+
+The [multimodal sensing-to-warranted-inference methods preprint](../multimodal-sensing-to-warranted-inference/README.md) (DOI [10.5281/zenodo.23936454](https://doi.org/10.5281/zenodo.23936454)) studies evidence qualification from device-derived measures to specific person-level state claims. It uses the event/knowledge-time distinction from this temporal paper but does not claim completed forecasting or clinical validation.
+
 ## Citation / 引用
 
 Che, Lei (2026). *From Human-Function Relations to Whole-Person State Understanding and Future Prediction: A Demand–Capacity–Engagement Temporal Specification, Prior-Art Comparison and Falsifiable Validation Protocol*. Methods and prospective validation preprint. Zenodo. https://doi.org/10.5281/zenodo.23934150
