@@ -69,6 +69,7 @@ It connects medical care, rehabilitation, exercise, nutrition, psychology, and e
 - **Modeling the Whole Person / 完整的人如何被建模（比较概念研究；同一研究的中英文版本）:** https://doi.org/10.5281/zenodo.23290873 · [论文说明 / Overview](papers/whole-person-comparative/README.md)
 - **Verifiable Whole-Person Computational Relations / 可验证的完整人计算关系（方法与验证方案预印本）:** https://doi.org/10.5281/zenodo.23922582 · [研究说明 / Overview](papers/whole-person-computational-relations/README.md)
 - **Whole-Person State Understanding and Future Prediction / 完整人状态理解与未来预测（双时间轴研究方案预印本）:** https://doi.org/10.5281/zenodo.23934150 · [研究说明 / Overview](papers/whole-person-state-prediction/README.md)
+- **From Multimodal Sensing to Warranted Whole-Person Inference / 从多模态感知到有依据的完整人推断（测量—命题规范与未来验证方案）:** https://doi.org/10.5281/zenodo.23936454 · [研究说明 / Overview](papers/multimodal-sensing-to-warranted-inference/README.md)
 - **UOHF Human Function Capacity System V1.0:** https://doi.org/10.5281/zenodo.21975100
 - **HFWM repository:** https://github.com/dlehche/Human-Function-World-Model
 - **UOHF semantic foundation:** https://github.com/dlehche/Unified-Ontology-Of-Human-Function
