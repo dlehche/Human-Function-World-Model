@@ -98,6 +98,10 @@ This paper specifies evidence-qualified translation from heterogeneous human obs
 
 This manuscript states the root empirical hypothesis. UOHF is one formalisation; HFWM is its longitudinal multiscale extension.
 
+## Pending Zenodo record verification (not yet classified)
+
+- **[Zenodo record 23934150](https://zenodo.org/records/23934150)** — DOI string: `10.5281/zenodo.23934150`. Link supplied by the author on 4 November 2026. **Title, authorship, abstract, publication date, license and whether this belongs to the HFWM or UOHF series have not been verified.** This link is preserved for research-publication intake only and is **not** yet a canonical HFWM paper or a `PUBLICATIONS.json` entry. Do not infer peer-review or validation status.
+
 ## Publication boundary
 
 A repository manuscript, a Zenodo publication, and a production-runtime release are different statuses. PUBLICATIONS.json is the machine-readable publication map for this repository.
