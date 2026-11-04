@@ -37,3 +37,7 @@ The [verifiable whole-person computational-relations preprint](../papers/whole-p
 ## Related temporal-state and prediction protocol
 
 The [temporal whole-person state and future prediction methods preprint](../papers/whole-person-state-prediction/README.md) (DOI [10.5281/zenodo.23934150](https://doi.org/10.5281/zenodo.23934150)) proposes tests separating event time from evidence availability, conditional observed-policy forecasts from intervention effects, and real longitudinal prediction scores from synthetic engineering conformance. **These are future evaluations, not an already executed predictive benchmark.**
+
+## Proposed sensing-to-claim validation protocol
+
+The [multimodal sensing and warranted whole-person inference methods preprint](../papers/multimodal-sensing-to-warranted-inference/README.md) (DOI [10.5281/zenodo.23936454](https://doi.org/10.5281/zenodo.23936454)) proposes per-route measurement qualification, construct/actual-engagement identifiability checks, device- and sampling-sensitive constructed cases, and a separate real-person independent adjudication study. Matched raw information, context, quality metadata and annotation budgets are required for fair baseline comparisons. **The article is a future evaluation protocol, not an executed clinical trial, a deployed sensing interface or a public performance benchmark.**
