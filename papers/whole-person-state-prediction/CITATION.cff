@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "For this temporal whole-person understanding and prediction preprint, cite this Zenodo DOI; for the canonical HFWM framework cite the root CITATION.cff."
+title: "From Human-Function Relations to Whole-Person State Understanding and Future Prediction: A Demand–Capacity–Engagement Temporal Specification, Prior-Art Comparison and Falsifiable Validation Protocol"
+authors:
+  - family-names: "Che"
+    given-names: "Lei"
+    orcid: "https://orcid.org/0009-0001-8143-1675"
+    affiliation: "MoveTips Technology (Beijing) Co., Ltd."
+date-released: 2026-11-04
+doi: "10.5281/zenodo.23934150"
+url: "https://zenodo.org/records/23934150"
+repository-code: "https://github.com/dlehche/Human-Function-World-Model/tree/main/papers/whole-person-state-prediction"
+license: CC-BY-NC-4.0
+abstract: >-
+  Proposes a two-clock demand-capacity-functional-engagement temporal interface for
+  evidence-qualified whole-person state understanding and conditional future
+  forecasts, with explicit prior-art comparison and a prospective falsifiable
+  validation protocol. It reports no new independent longitudinal predictive
+  results or intervention effects.
+keywords:
+  - human function
+  - whole-person computation
+  - HFWM
+  - UOHF
+  - longitudinal prediction
+  - temporal understanding
+  - functional engagement
+  - evidence qualification
+preferred-citation:
+  type: generic
+  authors:
+    - family-names: "Che"
+      given-names: "Lei"
+      orcid: "https://orcid.org/0009-0001-8143-1675"
+  title: "From Human-Function Relations to Whole-Person State Understanding and Future Prediction: A Demand–Capacity–Engagement Temporal Specification, Prior-Art Comparison and Falsifiable Validation Protocol"
+  year: 2026
+  doi: "10.5281/zenodo.23934150"
+  url: "https://zenodo.org/records/23934150"
