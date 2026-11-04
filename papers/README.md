@@ -95,11 +95,28 @@ This paper specifies evidence-qualified translation from heterogeneous human obs
 **License:** CC BY-NC 4.0 is the repository default; the Zenodo record license remains to be independently checked  
 **Status:** Author-identified Zenodo preprint; no registered prospective study or independent longitudinal forecasting result reported
 
-- [English/Chinese overview and scientific boundaries](papers/whole-person-state-prediction/README.md)
+- [English/Chinese overview and scientific boundaries](whole-person-state-prediction/README.md)
 - [Original Zenodo record and deposited publication](https://zenodo.org/records/23934150)
-- [Paper-specific citation](papers/whole-person-state-prediction/CITATION.cff)
+- [Paper-specific citation](whole-person-state-prediction/CITATION.cff)
 
 This paper separates event time from knowledge availability and specifies current-state inference, conditional time-bounded prediction, prior-art comparisons and prospective falsification criteria. It explicitly reports no new forecasting performance or intervention benefit. It is a **different focused study** from the 3 November verifiable-computational-relations methods preprint and does not replace the canonical HFWM V1.0 framework.
+
+## Focused multimodal sensing and measurement-to-claim methods preprint
+
+### From Multimodal Sensing to Warranted Whole-Person Inference: A Human-Function-Based Measurement-to-Claim Specification and Falsifiable Validation Protocol
+
+**Author:** Lei Che ([ORCID](https://orcid.org/0009-0001-8143-1675))  
+**Manuscript date:** 4 November 2026 (author-provided bilingual manuscript; Zenodo publication date not independently retrieved)  
+**Resource type:** Computational methods, sensing-to-claim specification and falsifiable prospective validation protocol  
+**Zenodo DOI:** [10.5281/zenodo.23936454](https://doi.org/10.5281/zenodo.23936454)  
+**License:** Repository documentation defaults to CC BY-NC 4.0; specific Zenodo-record license not independently verified  
+**Status:** Author-identified Zenodo preprint, with no new independent human study, validated engagement measurement or executed predictive benchmark
+
+- [Bilingual research scope and evidence boundaries](multimodal-sensing-to-warranted-inference/README.md)
+- [Zenodo record and deposited article](https://zenodo.org/records/23936454)
+- [Paper-specific citation](multimodal-sensing-to-warranted-inference/CITATION.cff)
+
+This focused preprint proposes a question-relative, dependency-aware transfer from validated sensor-derived measures to claims about one continuing person's demand, capacity, actual bodily engagement and consequences. It specifies separate evidence-route qualification and real-person validation requirements. It extends, **but does not replace**, the earlier computational-relations and temporal-understanding papers. The English and Chinese editions are one study, not two independent publications.
 
 ## Root hypothesis manuscript
 
