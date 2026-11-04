@@ -2,7 +2,7 @@
 
 ## A whole-person world model organized through human function
 
-[中文](README.zh-CN.md) · **[HFWM V1.0](https://doi.org/10.5281/zenodo.22685308)** · **[Model interoperability V1.0](https://doi.org/10.5281/zenodo.23180973)** · **[Whole-person comparative study](https://doi.org/10.5281/zenodo.23290873)** · **[Verifiable computational relations](https://doi.org/10.5281/zenodo.23922582)** · [Whole-person landing page](WHOLE_PERSON_HUMAN_FUNCTION_WORLD_MODEL.md) · [Framework paper](papers/hfwm-framework/HFWM_EN.md) · [Architecture](architecture/README.md) · [Capacity coordinate](capacity-coordinate/README.md) · [Functional Bridge](functional-bridge/README.md) · [Papers](papers/README.md) · [References](references/README.md) · [Public boundary](PUBLIC_RELEASE_BOUNDARY.md) · [Rights](RIGHTS_AND_REUSE.md) · **[What Is a Whole Person?](papers/whole-person-definition/README.md)**
+[中文](README.zh-CN.md) · **[HFWM V1.0](https://doi.org/10.5281/zenodo.22685308)** · **[Model interoperability V1.0](https://doi.org/10.5281/zenodo.23180973)** · **[Whole-person comparative study](https://doi.org/10.5281/zenodo.23290873)** · **[Verifiable computational relations](https://doi.org/10.5281/zenodo.23922582)** · **[Temporal understanding & prediction](https://doi.org/10.5281/zenodo.23934150)** · [Whole-person landing page](WHOLE_PERSON_HUMAN_FUNCTION_WORLD_MODEL.md) · [Framework paper](papers/hfwm-framework/HFWM_EN.md) · [Architecture](architecture/README.md) · [Capacity coordinate](capacity-coordinate/README.md) · [Functional Bridge](functional-bridge/README.md) · [Papers](papers/README.md) · [References](references/README.md) · [Public boundary](PUBLIC_RELEASE_BOUNDARY.md) · [Rights](RIGHTS_AND_REUSE.md) · **[What Is a Whole Person?](papers/whole-person-definition/README.md)**
 
 **Official name:** Human Function World Model  
 **Official abbreviation:** HFWM  
@@ -13,6 +13,7 @@
 **Latest focused interoperability publication:** [10.5281/zenodo.23180973](https://doi.org/10.5281/zenodo.23180973)  
 **Whole-person comparative preprint:** [10.5281/zenodo.23290873](https://doi.org/10.5281/zenodo.23290873) (11 October 2026; CC BY-NC 4.0)  
 **Verifiable computational relations preprint:** [10.5281/zenodo.23922582](https://doi.org/10.5281/zenodo.23922582) (3 November 2026; CC BY-NC 4.0; methods and prospective validation protocol)  
+**Temporal state and prediction methods preprint:** [10.5281/zenodo.23934150](https://doi.org/10.5281/zenodo.23934150) (manuscript 4 November 2026; no independent prospective forecast validation)  
 **Semantic foundation:** [Unified Ontology of Human Function (UOHF)](https://github.com/dlehche/Unified-Ontology-Of-Human-Function)  
 **Public publication/document license:** CC BY-NC 4.0 unless a specific record states otherwise
 
@@ -74,6 +75,7 @@ This repository is the dedicated public research home for HFWM as it grows beyon
 - **Human-model interoperability Version 1.0:** *Connecting Human Models Through Human Function: Toward a Common Computational Protocol for Whole-Person Modeling*. Zenodo DOI: [10.5281/zenodo.23180973](https://doi.org/10.5281/zenodo.23180973). [English and Chinese full text](papers/human-model-interoperability/README.md).
 - **Whole-person comparative conceptual study (11 October 2026):** *Modeling the Whole Person: Unresolved Questions in Current Medical, Physiological, and Health World Models and a Response from the Human Function World Model*. Zenodo DOI: [10.5281/zenodo.23290873](https://doi.org/10.5281/zenodo.23290873). [Study overview](papers/whole-person-comparative/README.md).
 - **Verifiable whole-person computational relations (3 November 2026):** *From Heterogeneous Human Data to Verifiable Whole-Person Computational Relations*. Zenodo DOI: [10.5281/zenodo.23922582](https://doi.org/10.5281/zenodo.23922582). [Methods/protocol overview](papers/whole-person-computational-relations/README.md). Preprint; independent benchmark and clinical superiority not claimed.
+- **Whole-person temporal state and future prediction (manuscript 4 November 2026):** *From Human-Function Relations to Whole-Person State Understanding and Future Prediction*. Zenodo DOI: [10.5281/zenodo.23934150](https://doi.org/10.5281/zenodo.23934150). [Research scope and evidence boundary](papers/whole-person-state-prediction/README.md). This methods preprint proposes two-clock reasoning and independent predictive validation tests; it does not report prospective forecasting results.
 
 The first publication defines the dedicated HFWM architecture; the interoperability study develops how heterogeneous models contribute to the same person; the comparative study examines existing approaches, question-relative adequacy and evidence constraints; and the computational-relations preprint specifies a prospective, falsifiable relation-transfer and evaluation method. The comparative preprint reports conceptual analyses and constructed probes, not a validated benchmark or clinical benefit. UOHF remains the semantic authority for human-function definitions and governed ontology identities.
 
@@ -213,6 +215,7 @@ This is the root empirical hypothesis manuscript. UOHF formalises the hypothesis
 | [What Is a Whole Person? (English)](papers/whole-person-definition/WHAT_IS_A_WHOLE_PERSON_EN.md) · [中文](papers/whole-person-definition/WHAT_IS_A_WHOLE_PERSON_ZH.md) | Ontological and computational definition; one bilingual manuscript; Zenodo DOI reserved but publication not confirmed |
 | [Whole-person comparative preprint](papers/whole-person-comparative/README.md) | Comparative conceptual study of existing models, computability and falsifiable whole-person evaluation · DOI 10.5281/zenodo.23290873 |
 | [Verifiable computational relations preprint](papers/whole-person-computational-relations/README.md) | Evidence-qualified cross-domain relations and prospective evaluation protocol · DOI 10.5281/zenodo.23922582 |
+| [Temporal state and future prediction preprint](papers/whole-person-state-prediction/README.md) | Two-clock state interpretation, time-bounded conditional prediction and prospective validation protocol · DOI 10.5281/zenodo.23934150 |
 | [Whole-person landing page](WHOLE_PERSON_HUMAN_FUNCTION_WORLD_MODEL.md) | Canonical whole-person model statement and discovery page |
 | [中文论文](papers/hfwm-framework/HFWM_ZH.md) | 中文完整对照稿 |
 | [Architecture](architecture/README.md) | Public HFWM architecture |
