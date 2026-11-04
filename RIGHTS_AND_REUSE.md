@@ -9,6 +9,7 @@ Public HFWM publication and documentation content uses **Creative Commons Attrib
 - **Modeling the Whole Person**, comparative conceptual preprint — DOI: https://doi.org/10.5281/zenodo.23290873 — CC BY-NC 4.0.
 - **From Heterogeneous Human Data to Verifiable Whole-Person Computational Relations**, methods/protocol preprint — DOI: https://doi.org/10.5281/zenodo.23922582 — CC BY-NC 4.0 (author-confirmed).
 - **From Human-Function Relations to Whole-Person State Understanding and Future Prediction**, temporal methods/protocol preprint — DOI: https://doi.org/10.5281/zenodo.23934150 — CC BY-NC 4.0 under the HFWM repository default; the license on this Zenodo record was not independently retrieved.
+- **From Multimodal Sensing to Warranted Whole-Person Inference**, sensing measurement-to-claim methods/protocol preprint — DOI: https://doi.org/10.5281/zenodo.23936454 — HFWM repository-documentation default CC BY-NC 4.0; specific Zenodo-record license has not been independently verified.
 
 Publication-specific rights and citation metadata are also maintained inside the corresponding paper directories.
 
