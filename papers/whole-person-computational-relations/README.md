@@ -48,6 +48,10 @@ This is an **independent focused preprint**, not HFWM V2.0, not a UOHF ontology 
 
 A separate [whole-person state understanding and future prediction preprint](../whole-person-state-prediction/README.md) (DOI [10.5281/zenodo.23934150](https://doi.org/10.5281/zenodo.23934150)) extends the research questions from evidence-qualified relation transfer to dual-clock present-state interpretation and conditional future prediction. **It does not supersede this paper or provide independent forecasting validation.**
 
+## Related sensing-to-claim methods / 相关感知证据研究
+
+A separate [multimodal sensing to warranted whole-person inference methods preprint](../multimodal-sensing-to-warranted-inference/README.md) (DOI [10.5281/zenodo.23936454](https://doi.org/10.5281/zenodo.23936454)) specifies when sensor-derived measures can serve as admissible evidence for specific person-level claims. This does not replace the present cross-domain computational-relations specification or demonstrate independent clinical validation.
+
 ## Citation / 引用
 
 Che, Lei (2026). *From Heterogeneous Human Data to Verifiable Whole-Person Computational Relations: A Human-Function-Based Relational Specification and Cross-Disciplinary Evaluation Protocol*. [Preprint]. Zenodo. https://doi.org/10.5281/zenodo.23922582
