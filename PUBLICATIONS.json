@@ -112,6 +112,25 @@
       "relationToInteroperability": "specifies-evidence-qualified-cross-domain-claim-transfer-and-validation-protocol",
       "evidenceBoundary": "No independent executed benchmark, clinical predictive superiority or production runtime release is claimed",
       "metadataProvenance": "DOI, date and CC BY-NC 4.0 license supplied by author; public Zenodo landing metadata not independently fetched at integration time"
+    },
+    {
+      "id": "whole-person-temporal-state-understanding-future-prediction",
+      "title": "From Human-Function Relations to Whole-Person State Understanding and Future Prediction: A Demand–Capacity–Engagement Temporal Specification, Prior-Art Comparison and Falsifiable Validation Protocol",
+      "author": "Lei Che",
+      "authorOrcid": "0009-0001-8143-1675",
+      "manuscriptDate": "2026-11-04",
+      "resourceType": "Publication / Preprint",
+      "status": "zenodo-linked-author-identified-methods-protocol-preprint",
+      "record": "https://zenodo.org/records/23934150",
+      "doi": "10.5281/zenodo.23934150",
+      "license": "CC-BY-NC-4.0",
+      "licenseProvenance": "HFWM repository default; license of this Zenodo record not independently retrieved",
+      "repositoryOverview": "papers/whole-person-state-prediction/README.md",
+      "repositoryCitation": "papers/whole-person-state-prediction/CITATION.cff",
+      "relationToHFWM": "independent-focused-temporal-state-understanding-and-future-prediction-protocol-not-framework-version",
+      "relationToPreviousRelationsPaper": "builds-on-verifiable-relational-specification-10.5281/zenodo.23922582-but-adds-dual-time-and-future-forecast-questions",
+      "evidenceBoundary": "No preregistered prospective study, independently calibrated longitudinal predictor, clinical or intervention effects; author-run synthetic matched generic baseline showed same judgments",
+      "metadataProvenance": "Title, authorship and abstract supplied by author and verified in attached manuscript; DOI supplied by author; Zenodo landing metadata inaccessible at integration"
     }
   ]
 }
