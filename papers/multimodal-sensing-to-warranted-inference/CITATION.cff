@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "Cite this focused preprint using DOI 10.5281/zenodo.23936454; for canonical HFWM V1.0 cite the repository-root CITATION.cff."
+title: "From Multimodal Sensing to Warranted Whole-Person Inference: A Human-Function-Based Measurement-to-Claim Specification and Falsifiable Validation Protocol"
+authors:
+  - family-names: "Che"
+    given-names: "Lei"
+    orcid: "https://orcid.org/0009-0001-8143-1675"
+    affiliation: "MoveTips Technology (Beijing) Co., Ltd."
+doi: "10.5281/zenodo.23936454"
+url: "https://zenodo.org/records/23936454"
+repository-code: "https://github.com/dlehche/Human-Function-World-Model/tree/main/papers/multimodal-sensing-to-warranted-inference"
+abstract: >-
+  Proposes a question-scoped measurement-to-claim specification connecting validated
+  multimodal observations to evidence-qualified claims about one person's
+  internal/external demands, available bodily capacity, actual functional
+  engagement and consequences. Defines three conditional qualification gates,
+  identifiability checks, event/knowledge-time revision and falsifiable validation
+  against information-matched strong baselines. No new independently validated
+  sensing, human outcomes, prospective forecast or clinical benefit is reported.
+keywords:
+  - whole-person computation
+  - human function
+  - HFWM
+  - UOHF
+  - multimodal sensing
+  - digital measurement
+  - measurement-to-claim specification
+  - evidence qualification
+  - identifiability
+preferred-citation:
+  type: generic
+  authors:
+    - family-names: "Che"
+      given-names: "Lei"
+      orcid: "https://orcid.org/0009-0001-8143-1675"
+  title: "From Multimodal Sensing to Warranted Whole-Person Inference: A Human-Function-Based Measurement-to-Claim Specification and Falsifiable Validation Protocol"
+  year: 2026
+  doi: "10.5281/zenodo.23936454"
+  url: "https://zenodo.org/records/23936454"
